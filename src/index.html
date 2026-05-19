@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>宝可梦冠军对战</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <div id="loading-overlay" class="loading-overlay">
+      <div class="loading-spinner"></div>
+      <p>正在加载数据...</p>
+    </div>
+    <div id="error-banner" class="error-banner hidden">
+      <p id="error-message"></p>
+      <button id="error-retry">重试</button>
+    </div>
+    <header class="app-header">
+      <div>
+        <h1>宝可梦冠军对战</h1>
+        <p>宝可梦冠军赛 M-2 赛季对战辅助工具 — 图鉴 · 属性 · 速度 · 伤害 · 道具</p>
+      </div>
+      <nav class="app-nav">
+        <button class="nav-button active" data-view="home">首页</button>
+        <button class="nav-button" data-view="pokedex">图鉴</button>
+        <button class="nav-button" data-view="type-chart">属性克制</button>
+        <button class="nav-button" data-view="speed-chart">速度线</button>
+        <button class="nav-button" data-view="damage">伤害计算</button>
+        <button class="nav-button" data-view="items">道具</button>
+      </nav>
+    </header>
+
+    <main class="app-main">
+      <section class="view" id="view-home">
+        <h2>欢迎</h2>
+        <p>宝可梦冠军赛 M-2 赛季（Regulation M-A），187 只宝可梦 · Mega 进化解锁 · 道具全面介绍。</p>
+        <div class="feature-grid">
+          <article class="feature-card">
+            <h3>图鉴查询</h3>
+            <p>搜索 187 只当前赛季可用宝可梦，查看种族值、特性与招式。</p>
+          </article>
+          <article class="feature-card">
+            <h3>属性克制</h3>
+            <p>选择 1-2 个防守属性，查看弱点 / 抵抗 / 免疫分类。</p>
+          </article>
+          <article class="feature-card">
+            <h3>速度线</h3>
+            <p>查看所有宝可梦速度面板：满速、极速、顺风后速度。</p>
+          </article>
+          <article class="feature-card">
+            <h3>伤害计算</h3>
+            <p>Lv.50 对战标准公式，支持天气、场地、能力等级修正。</p>
+          </article>
+          <article class="feature-card">
+            <h3>道具百科</h3>
+            <p>了解赛季可用携带道具，按等级分类浏览效果与说明。</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="view hidden" id="view-pokedex">
+        <div class="section-header">
+          <h2>图鉴查询</h2>
+          <div class="search-row">
+            <input id="pokedex-search" type="search" placeholder="输入宝可梦名称或属性过滤..." />
+            <button id="pokedex-reset">重置</button>
+          </div>
+        </div>
+        <div id="pokedex-list" class="pokedex-list"></div>
+      </section>
+
+      <section class="view hidden" id="view-type-chart">
+        <h2>属性克制</h2>
+        <div class="type-selection">
+          <div class="type-selection-label">请选择 1-2 个防守属性：</div>
+          <div id="type-select-grid" class="type-select-grid"></div>
+          <div class="type-selection-actions">
+            <button id="type-clear">清除选择</button>
+            <div id="type-selected-label">已选择：无</div>
+          </div>
+        </div>
+        <div id="type-chart-result" class="type-chart-result"></div>
+        <div class="type-summary">
+          <p>点击属性图标，查看该属性的防御相性：抵抗、弱点、免疫、普通伤害。</p>
+        </div>
+      </section>
+
+      <section class="view hidden" id="view-speed-chart">
+        <div class="section-header">
+          <h2>速度线</h2>
+          <div class="speed-search-row">
+            <input id="speed-search" type="search" placeholder="输入宝可梦名称或属性过滤..." />
+            <button id="speed-clear">重置过滤</button>
+          </div>
+        </div>
+        <div class="speed-result">
+          <p>展示当前数据中所有宝可梦的速度面板：种族速度、无努力速度、满速、极速、满速×2、极速×2。</p>
+          <div id="speed-result-table" class="table-wrapper"></div>
+        </div>
+      </section>
+
+      <section class="view hidden" id="view-damage">
+        <h2>伤害计算</h2>
+        <div class="damage-controls">
+          <div>
+            <label for="damage-attacker">攻击者</label>
+            <select id="damage-attacker"></select>
+          </div>
+          <div>
+            <label for="damage-defender">目标</label>
+            <select id="damage-defender"></select>
+          </div>
+          <div>
+            <label for="damage-move">招式</label>
+            <select id="damage-move"></select>
+          </div>
+          <div>
+            <label for="damage-weather">天气</label>
+            <select id="damage-weather"></select>
+          </div>
+          <div>
+            <label for="damage-field">场地</label>
+            <select id="damage-field"></select>
+          </div>
+          <div class="damage-action-row">
+            <button id="damage-calc">计算伤害</button>
+          </div>
+        </div>
+        <div id="damage-result" class="damage-result"></div>
+      </section>
+
+      <section class="view hidden" id="view-items">
+        <div class="section-header">
+          <h2>道具百科</h2>
+          <div class="search-row">
+            <input id="items-search" type="search" placeholder="搜索道具名称、效果或分类..." />
+            <button id="items-reset">重置</button>
+          </div>
+        </div>
+        <div class="items-filter-row">
+          <button class="filter-tag active" data-tier="all">全部</button>
+          <button class="filter-tag" data-tier="S">S 级</button>
+          <button class="filter-tag" data-tier="A">A 级</button>
+          <button class="filter-tag" data-tier="B">B 级</button>
+          <button class="filter-tag" data-tier="C">C 级</button>
+          <button class="filter-tag" data-tier="Mega">Mega 石</button>
+        </div>
+        <div id="items-list" class="items-list"></div>
+      </section>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

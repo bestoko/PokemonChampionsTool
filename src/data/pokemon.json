@@ -1,0 +1,7354 @@
+[
+  {
+    "id": 3,
+    "name": "妙蛙花",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 83,
+      "spa": 100,
+      "spd": 100,
+      "spe": 80
+    },
+    "abilities": [
+      "茂盛",
+      "叶绿素"
+    ],
+    "moves": [
+      "污泥炸弹",
+      "能量球",
+      "飞叶风暴",
+      "大地之力",
+      "光合作用",
+      "生长",
+      "守住",
+      "替身",
+      "地震",
+      "剑舞",
+      "泰山压顶"
+    ],
+    "image": "images/pokemon/3.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/3.png"
+      },
+      {
+        "name": "Mega妙蛙花",
+        "image": "images/pokemon/3.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "喷火龙",
+    "types": [
+      "火",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 84,
+      "def": 78,
+      "spa": 109,
+      "spd": 85,
+      "spe": 100
+    },
+    "abilities": [
+      "猛火",
+      "太阳之力"
+    ],
+    "moves": [
+      "喷射火焰",
+      "大字爆炎",
+      "空气斩",
+      "龙息",
+      "暴风",
+      "过热",
+      "闪焰冲锋",
+      "地震",
+      "龙爪",
+      "守住",
+      "大晴天",
+      "龙之舞",
+      "鬼火"
+    ],
+    "image": "images/pokemon/6.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/6.png"
+      },
+      {
+        "name": "Mega喷火龙X",
+        "image": "images/pokemon/6.png",
+        "type": "mega"
+      },
+      {
+        "name": "Mega喷火龙Y",
+        "image": "images/pokemon/6.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "水箭龟",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 79,
+      "atk": 83,
+      "def": 100,
+      "spa": 85,
+      "spd": 105,
+      "spe": 78
+    },
+    "abilities": [
+      "激流",
+      "雨盘"
+    ],
+    "moves": [
+      "水炮",
+      "冰冻光束",
+      "恶之波动",
+      "波导弹",
+      "加农光炮",
+      "击掌奇袭",
+      "守住",
+      "铁壁",
+      "冲浪",
+      "冰砾",
+      "热水"
+    ],
+    "image": "images/pokemon/9.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/9.png"
+      },
+      {
+        "name": "Mega水箭龟",
+        "image": "images/pokemon/9.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "大针蜂",
+    "types": [
+      "虫",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 40,
+      "spa": 45,
+      "spd": 80,
+      "spe": 75
+    },
+    "abilities": [
+      "虫之预感",
+      "狙击手"
+    ],
+    "moves": [
+      "十字剪",
+      "污泥炸弹",
+      "急速折返",
+      "剑舞",
+      "毒击",
+      "守住",
+      "燕返",
+      "劈瓦",
+      "拍落"
+    ],
+    "image": "images/pokemon/15.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/15.png"
+      },
+      {
+        "name": "Mega大针蜂",
+        "image": "images/pokemon/15.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "大比鸟",
+    "types": [
+      "普通",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "atk": 80,
+      "def": 75,
+      "spa": 70,
+      "spd": 70,
+      "spe": 101
+    },
+    "abilities": [
+      "锐利目光",
+      "蹒跚"
+    ],
+    "moves": [
+      "暴风",
+      "空气斩",
+      "破坏光线",
+      "急速折返",
+      "守住",
+      "羽栖",
+      "清除浓雾",
+      "电光一闪"
+    ],
+    "image": "images/pokemon/18.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/18.png"
+      },
+      {
+        "name": "Mega大比鸟",
+        "image": "images/pokemon/18.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "阿柏怪",
+    "types": [
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 95,
+      "def": 69,
+      "spa": 65,
+      "spd": 79,
+      "spe": 80
+    },
+    "abilities": [
+      "威吓",
+      "蜕皮"
+    ],
+    "moves": [
+      "毒击",
+      "地震",
+      "岩崩",
+      "拍落",
+      "水流裂破",
+      "守住",
+      "龙之舞"
+    ],
+    "image": "images/pokemon/24.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/24.png"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "皮卡丘",
+    "types": [
+      "电"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": [
+      "静电",
+      "避雷针"
+    ],
+    "moves": [
+      "十万伏特",
+      "打雷",
+      "击掌奇袭",
+      "电光一闪",
+      "嬉闹",
+      "电磁波",
+      "替身",
+      "伏特替换",
+      "电网",
+      "帮助"
+    ],
+    "image": "images/pokemon/25.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/25.png"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "雷丘",
+    "types": [
+      "电"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 55,
+      "spa": 90,
+      "spd": 80,
+      "spe": 110
+    },
+    "abilities": [
+      "静电",
+      "避雷针"
+    ],
+    "moves": [
+      "十万伏特",
+      "打雷",
+      "击掌奇袭",
+      "精神强念",
+      "伏特替换",
+      "电磁波",
+      "替身",
+      "真气弹",
+      "电网",
+      "再来一次"
+    ],
+    "image": "images/pokemon/26.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/26.png"
+      },
+      {
+        "name": "阿罗拉雷丘",
+        "image": "images/pokemon/26.png",
+        "type": "alola"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "皮可西",
+    "types": [
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 70,
+      "def": 73,
+      "spa": 95,
+      "spd": 90,
+      "spe": 60
+    },
+    "abilities": [
+      "迷人之躯",
+      "魔法防守"
+    ],
+    "moves": [
+      "月亮之力",
+      "喷射火焰",
+      "十万伏特",
+      "精神强念",
+      "冰冻光束",
+      "冥想",
+      "守住",
+      "替身",
+      "隐形岩",
+      "电磁波",
+      "光墙"
+    ],
+    "image": "images/pokemon/36.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/36.png"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "九尾",
+    "types": [
+      "火"
+    ],
+    "baseStats": {
+      "hp": 73,
+      "atk": 76,
+      "def": 75,
+      "spa": 81,
+      "spd": 100,
+      "spe": 100
+    },
+    "abilities": [
+      "引火",
+      "日照"
+    ],
+    "moves": [
+      "喷射火焰",
+      "大字爆炎",
+      "能量球",
+      "恶之波动",
+      "鬼火",
+      "诡计",
+      "大晴天",
+      "守住",
+      "替身"
+    ],
+    "image": "images/pokemon/38.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/38.png"
+      },
+      {
+        "name": "阿罗拉九尾",
+        "image": "images/pokemon/38.png",
+        "type": "alola"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "风速狗",
+    "types": [
+      "火"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 110,
+      "def": 80,
+      "spa": 100,
+      "spd": 80,
+      "spe": 95
+    },
+    "abilities": [
+      "威吓",
+      "引火"
+    ],
+    "moves": [
+      "闪焰冲锋",
+      "近身战",
+      "神速",
+      "嬉闹",
+      "精神冲击",
+      "疯狂伏特",
+      "鬼火",
+      "守住",
+      "大晴天",
+      "龙之舞",
+      "喷射火焰",
+      "过热"
+    ],
+    "image": "images/pokemon/59.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/59.png"
+      },
+      {
+        "name": "洗翠风速狗",
+        "image": "images/pokemon/59.png",
+        "type": "hisui"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "胡地",
+    "types": [
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 50,
+      "def": 45,
+      "spa": 135,
+      "spd": 95,
+      "spe": 120
+    },
+    "abilities": [
+      "同步",
+      "精神力"
+    ],
+    "moves": [
+      "精神强念",
+      "精神冲击",
+      "影子球",
+      "十万伏特",
+      "能量球",
+      "恶之波动",
+      "冥想",
+      "守住",
+      "替身",
+      "电磁波",
+      "反射壁",
+      "戏法空间"
+    ],
+    "image": "images/pokemon/65.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/65.png"
+      },
+      {
+        "name": "Mega胡地",
+        "image": "images/pokemon/65.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "怪力",
+    "types": [
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 130,
+      "def": 80,
+      "spa": 65,
+      "spd": 85,
+      "spe": 55
+    },
+    "abilities": [
+      "毅力",
+      "无防守"
+    ],
+    "moves": [
+      "近身战",
+      "地震",
+      "岩崩",
+      "拍落",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳",
+      "子弹拳",
+      "守住",
+      "健美",
+      "剑舞"
+    ],
+    "image": "images/pokemon/68.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/68.png"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "大食花",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 105,
+      "def": 65,
+      "spa": 100,
+      "spd": 70,
+      "spe": 70
+    },
+    "abilities": [
+      "叶绿素",
+      "贪吃"
+    ],
+    "moves": [
+      "强力鞭打",
+      "污泥炸弹",
+      "拍落",
+      "剑舞",
+      "催眠粉",
+      "守住",
+      "生长"
+    ],
+    "image": "images/pokemon/71.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/71.png"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "呆壳兽",
+    "types": [
+      "水",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 75,
+      "def": 110,
+      "spa": 100,
+      "spd": 80,
+      "spe": 30
+    },
+    "abilities": [
+      "迟钝",
+      "我行我素"
+    ],
+    "moves": [
+      "热水",
+      "精神强念",
+      "冰冻光束",
+      "喷射火焰",
+      "冲浪",
+      "冥想",
+      "偷懒",
+      "守住",
+      "戏法空间",
+      "黑雾",
+      "交换场地"
+    ],
+    "image": "images/pokemon/80.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/80.png"
+      },
+      {
+        "name": "Mega呆壳兽",
+        "image": "images/pokemon/80.png",
+        "type": "mega"
+      },
+      {
+        "name": "伽勒尔呆壳兽",
+        "image": "images/pokemon/80.png",
+        "type": "galar"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "耿鬼",
+    "types": [
+      "幽灵",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 60,
+      "spa": 130,
+      "spd": 75,
+      "spe": 110
+    },
+    "abilities": [
+      "诅咒之躯"
+    ],
+    "moves": [
+      "影子球",
+      "污泥炸弹",
+      "十万伏特",
+      "精神强念",
+      "能量球",
+      "恶之波动",
+      "同命",
+      "鬼火",
+      "挑衅",
+      "守住",
+      "替身",
+      "戏法空间",
+      "再来一次"
+    ],
+    "image": "images/pokemon/94.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/94.png"
+      },
+      {
+        "name": "Mega耿鬼",
+        "image": "images/pokemon/94.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "袋兽",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 95,
+      "def": 80,
+      "spa": 40,
+      "spd": 80,
+      "spe": 90
+    },
+    "abilities": [
+      "早起",
+      "胆量"
+    ],
+    "moves": [
+      "击掌奇袭",
+      "舍身冲撞",
+      "地震",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳",
+      "泰山压顶",
+      "拍落",
+      "守住",
+      "剑舞",
+      "突袭"
+    ],
+    "image": "images/pokemon/115.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/115.png"
+      },
+      {
+        "name": "Mega袋兽",
+        "image": "images/pokemon/115.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "宝石海星",
+    "types": [
+      "水",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 75,
+      "def": 85,
+      "spa": 100,
+      "spd": 85,
+      "spe": 115
+    },
+    "abilities": [
+      "发光",
+      "自然回复"
+    ],
+    "moves": [
+      "水炮",
+      "精神强念",
+      "冰冻光束",
+      "十万伏特",
+      "冲浪",
+      "热水",
+      "自我再生",
+      "守住",
+      "戏法空间",
+      "反射壁",
+      "光墙"
+    ],
+    "image": "images/pokemon/121.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/121.png"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "凯罗斯",
+    "types": [
+      "虫"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 125,
+      "def": 100,
+      "spa": 55,
+      "spd": 70,
+      "spe": 85
+    },
+    "abilities": [
+      "怪力钳",
+      "破格"
+    ],
+    "moves": [
+      "十字剪",
+      "地震",
+      "岩崩",
+      "拍落",
+      "剑舞",
+      "守住",
+      "替身",
+      "泰山压顶"
+    ],
+    "image": "images/pokemon/127.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/127.png"
+      },
+      {
+        "name": "Mega凯罗斯",
+        "image": "images/pokemon/127.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "name": "肯泰罗",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 100,
+      "def": 95,
+      "spa": 40,
+      "spd": 70,
+      "spe": 110
+    },
+    "abilities": [
+      "威吓",
+      "愤怒穴位"
+    ],
+    "moves": [
+      "舍身冲撞",
+      "地震",
+      "岩崩",
+      "近身战",
+      "铁头",
+      "拍落",
+      "守住",
+      "替身",
+      "剑舞",
+      "十万马力"
+    ],
+    "image": "images/pokemon/128.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/128.png"
+      },
+      {
+        "name": "帕底亚斗战种",
+        "image": "images/pokemon/128.png",
+        "type": "paldea"
+      },
+      {
+        "name": "帕底亚水澜种",
+        "image": "images/pokemon/128.png",
+        "type": "paldea"
+      },
+      {
+        "name": "帕底亚火炽种",
+        "image": "images/pokemon/128.png",
+        "type": "paldea"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "name": "暴鲤龙",
+    "types": [
+      "水",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 125,
+      "def": 79,
+      "spa": 60,
+      "spd": 100,
+      "spe": 81
+    },
+    "abilities": [
+      "威吓",
+      "自信过度"
+    ],
+    "moves": [
+      "水流裂破",
+      "地震",
+      "龙之舞",
+      "挑衅",
+      "守住",
+      "替身",
+      "舍身冲撞",
+      "咬碎",
+      "报恩"
+    ],
+    "image": "images/pokemon/130.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/130.png"
+      },
+      {
+        "name": "Mega暴鲤龙",
+        "image": "images/pokemon/130.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "百变怪",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 48,
+      "atk": 48,
+      "def": 48,
+      "spa": 48,
+      "spd": 48,
+      "spe": 48
+    },
+    "abilities": [
+      "柔软",
+      "变身者"
+    ],
+    "moves": [
+      "守住"
+    ],
+    "image": "images/pokemon/132.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/132.png"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "水伊布",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 130,
+      "atk": 65,
+      "def": 60,
+      "spa": 110,
+      "spd": 95,
+      "spe": 65
+    },
+    "abilities": [
+      "储水",
+      "湿润之躯"
+    ],
+    "moves": [
+      "水炮",
+      "冰冻光束",
+      "热水",
+      "冲浪",
+      "影子球",
+      "守住",
+      "替身",
+      "帮助",
+      "黑雾"
+    ],
+    "image": "images/pokemon/134.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/134.png"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "雷伊布",
+    "types": [
+      "电"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 65,
+      "def": 60,
+      "spa": 110,
+      "spd": 95,
+      "spe": 130
+    },
+    "abilities": [
+      "蓄电",
+      "飞毛腿"
+    ],
+    "moves": [
+      "十万伏特",
+      "打雷",
+      "影子球",
+      "电磁波",
+      "伏特替换",
+      "电光一闪",
+      "守住",
+      "替身",
+      "帮助"
+    ],
+    "image": "images/pokemon/135.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/135.png"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "火伊布",
+    "types": [
+      "火"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 130,
+      "def": 60,
+      "spa": 95,
+      "spd": 110,
+      "spe": 65
+    },
+    "abilities": [
+      "引火",
+      "毅力"
+    ],
+    "moves": [
+      "闪焰冲锋",
+      "舍身冲撞",
+      "疯狂伏特",
+      "过热",
+      "鬼火",
+      "守住",
+      "替身",
+      "帮助",
+      "大晴天"
+    ],
+    "image": "images/pokemon/136.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/136.png"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "化石翼龙",
+    "types": [
+      "岩石",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 105,
+      "def": 65,
+      "spa": 60,
+      "spd": 75,
+      "spe": 130
+    },
+    "abilities": [
+      "坚硬脑袋",
+      "压迫感"
+    ],
+    "moves": [
+      "岩崩",
+      "地震",
+      "空气斩",
+      "龙爪",
+      "拍落",
+      "羽栖",
+      "守住",
+      "顺风",
+      "挑衅",
+      "隐形岩"
+    ],
+    "image": "images/pokemon/142.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/142.png"
+      },
+      {
+        "name": "Mega化石翼龙",
+        "image": "images/pokemon/142.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "name": "卡比兽",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 160,
+      "atk": 110,
+      "def": 65,
+      "spa": 65,
+      "spd": 110,
+      "spe": 30
+    },
+    "abilities": [
+      "免疫",
+      "厚脂肪"
+    ],
+    "moves": [
+      "击掌奇袭",
+      "舍身冲撞",
+      "地震",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳",
+      "拍落",
+      "重磅冲撞",
+      "守住",
+      "替身",
+      "自我再生",
+      "大爆炸"
+    ],
+    "image": "images/pokemon/143.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/143.png"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "name": "快龙",
+    "types": [
+      "龙",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 91,
+      "atk": 134,
+      "def": 95,
+      "spa": 100,
+      "spd": 100,
+      "spe": 80
+    },
+    "abilities": [
+      "精神力",
+      "多重鳞片"
+    ],
+    "moves": [
+      "逆鳞",
+      "龙爪",
+      "地震",
+      "火焰拳",
+      "神速",
+      "水流裂破",
+      "龙之舞",
+      "羽栖",
+      "守住",
+      "替身",
+      "暴风"
+    ],
+    "image": "images/pokemon/149.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/149.png"
+      },
+      {
+        "name": "Mega快龙",
+        "image": "images/pokemon/149.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "name": "大竺葵",
+    "types": [
+      "草"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 100,
+      "spa": 83,
+      "spd": 100,
+      "spe": 80
+    },
+    "abilities": [
+      "茂盛",
+      "叶子防守"
+    ],
+    "moves": [
+      "能量球",
+      "飞叶风暴",
+      "大地之力",
+      "光合作用",
+      "守住",
+      "替身",
+      "生长",
+      "泰山压顶",
+      "光墙",
+      "反射壁"
+    ],
+    "image": "images/pokemon/154.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/154.png"
+      },
+      {
+        "name": "Mega大竺葵",
+        "image": "images/pokemon/154.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "name": "火暴兽",
+    "types": [
+      "火"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 84,
+      "def": 78,
+      "spa": 109,
+      "spd": 85,
+      "spe": 100
+    },
+    "abilities": [
+      "猛火",
+      "引火"
+    ],
+    "moves": [
+      "喷射火焰",
+      "大字爆炎",
+      "闪焰冲锋",
+      "鬼火",
+      "大晴天",
+      "守住",
+      "替身",
+      "地震"
+    ],
+    "image": "images/pokemon/157.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/157.png"
+      },
+      {
+        "name": "洗翠火暴兽",
+        "image": "images/pokemon/157.png",
+        "type": "hisui"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "大力鳄",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 105,
+      "def": 100,
+      "spa": 79,
+      "spd": 83,
+      "spe": 78
+    },
+    "abilities": [
+      "激流",
+      "强行"
+    ],
+    "moves": [
+      "水流裂破",
+      "地震",
+      "龙之舞",
+      "咬碎",
+      "拍落",
+      "守住",
+      "替身",
+      "剑舞",
+      "冰冻拳"
+    ],
+    "image": "images/pokemon/160.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/160.png"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "name": "阿利多斯",
+    "types": [
+      "虫",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 90,
+      "def": 70,
+      "spa": 60,
+      "spd": 70,
+      "spe": 40
+    },
+    "abilities": [
+      "虫之预感",
+      "不眠"
+    ],
+    "moves": [
+      "十字剪",
+      "毒击",
+      "剑舞",
+      "黏黏网",
+      "拍落",
+      "突袭",
+      "守住",
+      "替身"
+    ],
+    "image": "images/pokemon/168.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/168.png"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "name": "电龙",
+    "types": [
+      "电"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 75,
+      "def": 85,
+      "spa": 115,
+      "spd": 90,
+      "spe": 55
+    },
+    "abilities": [
+      "静电",
+      "正电"
+    ],
+    "moves": [
+      "十万伏特",
+      "打雷",
+      "真气弹",
+      "伏特替换",
+      "电磁波",
+      "守住",
+      "替身",
+      "冥想"
+    ],
+    "image": "images/pokemon/181.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/181.png"
+      },
+      {
+        "name": "Mega电龙",
+        "image": "images/pokemon/181.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "name": "玛力露丽",
+    "types": [
+      "水",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 50,
+      "def": 80,
+      "spa": 60,
+      "spd": 80,
+      "spe": 50
+    },
+    "abilities": [
+      "厚脂肪",
+      "大力士"
+    ],
+    "moves": [
+      "嬉闹",
+      "水流裂破",
+      "击掌奇袭",
+      "拍落",
+      "守住",
+      "替身",
+      "泰山压顶"
+    ],
+    "image": "images/pokemon/184.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/184.png"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "name": "蚊香蛙皇",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 75,
+      "def": 75,
+      "spa": 90,
+      "spd": 100,
+      "spe": 70
+    },
+    "abilities": [
+      "储水",
+      "湿气"
+    ],
+    "moves": [
+      "热水",
+      "冰冻光束",
+      "精神强念",
+      "冲浪",
+      "大地之力",
+      "守住",
+      "替身",
+      "再来一次",
+      "帮助",
+      "黑雾"
+    ],
+    "image": "images/pokemon/186.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/186.png"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "name": "太阳伊布",
+    "types": [
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 65,
+      "def": 60,
+      "spa": 130,
+      "spd": 95,
+      "spe": 110
+    },
+    "abilities": [
+      "同步",
+      "魔法镜"
+    ],
+    "moves": [
+      "精神强念",
+      "精神冲击",
+      "影子球",
+      "十万伏特",
+      "冥想",
+      "守住",
+      "替身",
+      "反射壁",
+      "光墙",
+      "戏法空间"
+    ],
+    "image": "images/pokemon/196.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/196.png"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "name": "月亮伊布",
+    "types": [
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 65,
+      "def": 110,
+      "spa": 60,
+      "spd": 130,
+      "spe": 65
+    },
+    "abilities": [
+      "同步",
+      "精神力"
+    ],
+    "moves": [
+      "欺诈",
+      "拍落",
+      "守住",
+      "挑衅",
+      "替身",
+      "剧毒",
+      "恶之波动",
+      "精神强念",
+      "黑雾"
+    ],
+    "image": "images/pokemon/197.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/197.png"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "name": "呆呆王",
+    "types": [
+      "水",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 75,
+      "def": 80,
+      "spa": 100,
+      "spd": 110,
+      "spe": 30
+    },
+    "abilities": [
+      "迟钝",
+      "我行我素"
+    ],
+    "moves": [
+      "热水",
+      "精神强念",
+      "冰冻光束",
+      "喷射火焰",
+      "诡计",
+      "偷懒",
+      "守住",
+      "戏法空间",
+      "黑雾",
+      "交换场地"
+    ],
+    "image": "images/pokemon/199.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/199.png"
+      },
+      {
+        "name": "伽勒尔呆呆王",
+        "image": "images/pokemon/199.png",
+        "type": "galar"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "佛烈托斯",
+    "types": [
+      "虫",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 90,
+      "def": 140,
+      "spa": 60,
+      "spd": 60,
+      "spe": 40
+    },
+    "abilities": [
+      "结实",
+      "防尘"
+    ],
+    "moves": [
+      "地震",
+      "岩崩",
+      "拍落",
+      "撒菱",
+      "隐形岩",
+      "大爆炸",
+      "守住",
+      "替身",
+      "反射壁",
+      "光墙",
+      "毒菱"
+    ],
+    "image": "images/pokemon/205.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/205.png"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "name": "大钢蛇",
+    "types": [
+      "钢",
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 85,
+      "def": 200,
+      "spa": 55,
+      "spd": 65,
+      "spe": 30
+    },
+    "abilities": [
+      "坚硬脑袋",
+      "结实"
+    ],
+    "moves": [
+      "重磅冲撞",
+      "地震",
+      "岩崩",
+      "铁头",
+      "隐形岩",
+      "守住",
+      "大爆炸"
+    ],
+    "image": "images/pokemon/208.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/208.png"
+      },
+      {
+        "name": "Mega大钢蛇",
+        "image": "images/pokemon/208.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "name": "巨钳螳螂",
+    "types": [
+      "虫",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 130,
+      "def": 100,
+      "spa": 55,
+      "spd": 80,
+      "spe": 65
+    },
+    "abilities": [
+      "虫之预感",
+      "技术高手"
+    ],
+    "moves": [
+      "子弹拳",
+      "急速折返",
+      "十字剪",
+      "拍落",
+      "剑舞",
+      "羽栖",
+      "守住",
+      "替身",
+      "燕返",
+      "铁头"
+    ],
+    "image": "images/pokemon/212.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/212.png"
+      },
+      {
+        "name": "Mega巨钳螳螂",
+        "image": "images/pokemon/212.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "name": "赫拉克罗斯",
+    "types": [
+      "虫",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 125,
+      "def": 75,
+      "spa": 40,
+      "spd": 95,
+      "spe": 85
+    },
+    "abilities": [
+      "虫之预感",
+      "毅力"
+    ],
+    "moves": [
+      "近身战",
+      "十字剪",
+      "岩崩",
+      "地震",
+      "剑舞",
+      "守住",
+      "替身"
+    ],
+    "image": "images/pokemon/214.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/214.png"
+      },
+      {
+        "name": "Mega赫拉克罗斯",
+        "image": "images/pokemon/214.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "盔甲鸟",
+    "types": [
+      "钢",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 80,
+      "def": 140,
+      "spa": 40,
+      "spd": 70,
+      "spe": 70
+    },
+    "abilities": [
+      "锐利目光",
+      "结实"
+    ],
+    "moves": [
+      "铁头",
+      "勇鸟猛攻",
+      "隐形岩",
+      "撒菱",
+      "羽栖",
+      "守住",
+      "替身",
+      "吹飞",
+      "挑衅",
+      "岩崩",
+      "清除浓雾"
+    ],
+    "image": "images/pokemon/227.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/227.png"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "name": "黑鲁加",
+    "types": [
+      "恶",
+      "火"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 90,
+      "def": 50,
+      "spa": 110,
+      "spd": 80,
+      "spe": 95
+    },
+    "abilities": [
+      "早起",
+      "引火"
+    ],
+    "moves": [
+      "恶之波动",
+      "喷射火焰",
+      "大字爆炎",
+      "污泥炸弹",
+      "诡计",
+      "鬼火",
+      "守住",
+      "替身",
+      "过热"
+    ],
+    "image": "images/pokemon/229.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/229.png"
+      },
+      {
+        "name": "Mega黑鲁加",
+        "image": "images/pokemon/229.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "name": "班基拉斯",
+    "types": [
+      "岩石",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 134,
+      "def": 110,
+      "spa": 95,
+      "spd": 100,
+      "spe": 61
+    },
+    "abilities": [
+      "扬沙",
+      "紧张感"
+    ],
+    "moves": [
+      "岩崩",
+      "地震",
+      "咬碎",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳",
+      "龙之舞",
+      "守住",
+      "替身",
+      "隐形岩",
+      "挑衅"
+    ],
+    "image": "images/pokemon/248.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/248.png"
+      },
+      {
+        "name": "Mega班基拉斯",
+        "image": "images/pokemon/248.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "name": "大嘴鸥",
+    "types": [
+      "水",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 100,
+      "spa": 95,
+      "spd": 70,
+      "spe": 65
+    },
+    "abilities": [
+      "锐利目光",
+      "降雨"
+    ],
+    "moves": [
+      "热水",
+      "暴风",
+      "冲浪",
+      "冰冻光束",
+      "急速折返",
+      "羽栖",
+      "守住",
+      "顺风",
+      "清除浓雾",
+      "替身"
+    ],
+    "image": "images/pokemon/279.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/279.png"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "name": "沙奈朵",
+    "types": [
+      "超能",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 65,
+      "def": 65,
+      "spa": 125,
+      "spd": 115,
+      "spe": 80
+    },
+    "abilities": [
+      "同步",
+      "复制"
+    ],
+    "moves": [
+      "月亮之力",
+      "精神强念",
+      "十万伏特",
+      "影子球",
+      "冥想",
+      "守住",
+      "替身",
+      "再来一次",
+      "鬼火",
+      "戏法空间"
+    ],
+    "image": "images/pokemon/282.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/282.png"
+      },
+      {
+        "name": "Mega沙奈朵",
+        "image": "images/pokemon/282.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "name": "勾魂眼",
+    "types": [
+      "恶",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 75,
+      "def": 75,
+      "spa": 65,
+      "spd": 65,
+      "spe": 50
+    },
+    "abilities": [
+      "锐利目光",
+      "慢出"
+    ],
+    "moves": [
+      "欺诈",
+      "拍落",
+      "鬼火",
+      "自我再生",
+      "守住",
+      "挑衅",
+      "替身",
+      "击掌奇袭",
+      "戏法空间"
+    ],
+    "image": "images/pokemon/302.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/302.png"
+      },
+      {
+        "name": "Mega勾魂眼",
+        "image": "images/pokemon/302.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "name": "波士可多拉",
+    "types": [
+      "钢",
+      "岩石"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 180,
+      "spa": 60,
+      "spd": 60,
+      "spe": 50
+    },
+    "abilities": [
+      "结实",
+      "坚硬脑袋"
+    ],
+    "moves": [
+      "重磅冲撞",
+      "地震",
+      "岩崩",
+      "铁头",
+      "隐形岩",
+      "守住",
+      "替身"
+    ],
+    "image": "images/pokemon/306.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/306.png"
+      },
+      {
+        "name": "Mega波士可多拉",
+        "image": "images/pokemon/306.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "name": "恰雷姆",
+    "types": [
+      "格斗",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 60,
+      "def": 75,
+      "spa": 60,
+      "spd": 75,
+      "spe": 80
+    },
+    "abilities": [
+      "瑜伽之力",
+      "心灵感应"
+    ],
+    "moves": [
+      "飞膝踢",
+      "意念头锤",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳",
+      "子弹拳",
+      "击掌奇袭",
+      "剑舞",
+      "守住",
+      "替身",
+      "自我再生"
+    ],
+    "image": "images/pokemon/308.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/308.png"
+      },
+      {
+        "name": "Mega恰雷姆",
+        "image": "images/pokemon/308.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "name": "雷电兽",
+    "types": [
+      "电"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 75,
+      "def": 60,
+      "spa": 105,
+      "spd": 60,
+      "spe": 105
+    },
+    "abilities": [
+      "静电",
+      "避雷针"
+    ],
+    "moves": [
+      "十万伏特",
+      "打雷",
+      "喷射火焰",
+      "恶之波动",
+      "伏特替换",
+      "电磁波",
+      "守住",
+      "替身",
+      "鬼火"
+    ],
+    "image": "images/pokemon/310.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/310.png"
+      },
+      {
+        "name": "Mega雷电兽",
+        "image": "images/pokemon/310.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "name": "巨牙鲨",
+    "types": [
+      "水",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 120,
+      "def": 40,
+      "spa": 95,
+      "spd": 40,
+      "spe": 95
+    },
+    "abilities": [
+      "鲨鱼皮",
+      "加速"
+    ],
+    "moves": [
+      "水流裂破",
+      "咬碎",
+      "龙之舞",
+      "守住",
+      "替身",
+      "地震",
+      "拍落"
+    ],
+    "image": "images/pokemon/319.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/319.png"
+      },
+      {
+        "name": "Mega巨牙鲨",
+        "image": "images/pokemon/319.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "name": "喷火驼",
+    "types": [
+      "火",
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 100,
+      "def": 70,
+      "spa": 105,
+      "spd": 75,
+      "spe": 40
+    },
+    "abilities": [
+      "熔岩铠甲",
+      "硬壳盔甲"
+    ],
+    "moves": [
+      "大字爆炎",
+      "大地之力",
+      "岩崩",
+      "鬼火",
+      "隐形岩",
+      "守住",
+      "替身",
+      "大爆炸"
+    ],
+    "image": "images/pokemon/323.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/323.png"
+      },
+      {
+        "name": "Mega喷火驼",
+        "image": "images/pokemon/323.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "name": "煤炭龟",
+    "types": [
+      "火"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 140,
+      "spa": 85,
+      "spd": 70,
+      "spe": 20
+    },
+    "abilities": [
+      "白色烟雾",
+      "日照"
+    ],
+    "moves": [
+      "喷射火焰",
+      "大字爆炎",
+      "大地之力",
+      "污泥炸弹",
+      "鬼火",
+      "隐形岩",
+      "守住",
+      "大晴天",
+      "替身"
+    ],
+    "image": "images/pokemon/324.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/324.png"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "name": "七夕青鸟",
+    "types": [
+      "龙",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 70,
+      "def": 90,
+      "spa": 70,
+      "spd": 105,
+      "spe": 80
+    },
+    "abilities": [
+      "自然回复",
+      "无关天气"
+    ],
+    "moves": [
+      "龙星群",
+      "月亮之力",
+      "喷射火焰",
+      "羽栖",
+      "守住",
+      "龙之舞",
+      "替身",
+      "顺风",
+      "大字爆炎"
+    ],
+    "image": "images/pokemon/334.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/334.png"
+      },
+      {
+        "name": "Mega七夕青鸟",
+        "image": "images/pokemon/334.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "name": "美纳斯",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 60,
+      "def": 79,
+      "spa": 100,
+      "spd": 125,
+      "spe": 81
+    },
+    "abilities": [
+      "神奇鳞片",
+      "好胜"
+    ],
+    "moves": [
+      "热水",
+      "冰冻光束",
+      "冲浪",
+      "龙息",
+      "自我再生",
+      "守住",
+      "替身",
+      "黑雾",
+      "光墙"
+    ],
+    "image": "images/pokemon/350.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/350.png"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "name": "飘浮泡泡",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 70,
+      "def": 70,
+      "spa": 70,
+      "spd": 70,
+      "spe": 70
+    },
+    "abilities": [
+      "阴晴不定"
+    ],
+    "moves": [
+      "十万伏特",
+      "冰冻光束",
+      "水炮",
+      "喷射火焰",
+      "大晴天",
+      "求雨",
+      "守住",
+      "替身",
+      "暴风"
+    ],
+    "image": "images/pokemon/351.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/351.png"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "name": "诅咒娃娃",
+    "types": [
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 115,
+      "def": 65,
+      "spa": 83,
+      "spd": 63,
+      "spe": 65
+    },
+    "abilities": [
+      "不眠",
+      "察觉"
+    ],
+    "moves": [
+      "灵骚",
+      "拍落",
+      "鬼火",
+      "剑舞",
+      "守住",
+      "同命",
+      "替身",
+      "挑衅",
+      "突袭",
+      "影子球"
+    ],
+    "image": "images/pokemon/354.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/354.png"
+      },
+      {
+        "name": "Mega诅咒娃娃",
+        "image": "images/pokemon/354.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 358,
+    "name": "风铃铃",
+    "types": [
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 50,
+      "def": 80,
+      "spa": 95,
+      "spd": 90,
+      "spe": 65
+    },
+    "abilities": [
+      "飘浮"
+    ],
+    "moves": [
+      "精神强念",
+      "影子球",
+      "十万伏特",
+      "冥想",
+      "自我再生",
+      "守住",
+      "再来一次",
+      "替身",
+      "反射壁",
+      "光墙"
+    ],
+    "image": "images/pokemon/358.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/358.png"
+      },
+      {
+        "name": "Mega风铃铃",
+        "image": "images/pokemon/358.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "name": "阿勃梭鲁",
+    "types": [
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 130,
+      "def": 60,
+      "spa": 75,
+      "spd": 60,
+      "spe": 75
+    },
+    "abilities": [
+      "压迫感",
+      "超幸运"
+    ],
+    "moves": [
+      "拍落",
+      "突袭",
+      "尖石攻击",
+      "剑舞",
+      "守住",
+      "替身",
+      "近身战",
+      "精神强念",
+      "鬼火"
+    ],
+    "image": "images/pokemon/359.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/359.png"
+      },
+      {
+        "name": "Mega阿勃梭鲁",
+        "image": "images/pokemon/359.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "name": "冰鬼护",
+    "types": [
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 80,
+      "def": 80,
+      "spa": 80,
+      "spd": 80,
+      "spe": 80
+    },
+    "abilities": [
+      "精神力",
+      "冰冻之躯"
+    ],
+    "moves": [
+      "冰柱坠击",
+      "地震",
+      "铁头",
+      "大爆炸",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "尖石攻击",
+      "冰砾"
+    ],
+    "image": "images/pokemon/362.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/362.png"
+      },
+      {
+        "name": "Mega冰鬼护",
+        "image": "images/pokemon/362.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "name": "土台龟",
+    "types": [
+      "草",
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 109,
+      "def": 105,
+      "spa": 75,
+      "spd": 85,
+      "spe": 56
+    },
+    "abilities": [
+      "茂盛",
+      "硬壳盔甲"
+    ],
+    "moves": [
+      "地震",
+      "强力鞭打",
+      "岩崩",
+      "隐形岩",
+      "守住",
+      "光合作用",
+      "替身",
+      "剑舞",
+      "重磅冲撞"
+    ],
+    "image": "images/pokemon/389.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/389.png"
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "name": "烈焰猴",
+    "types": [
+      "火",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 76,
+      "atk": 104,
+      "def": 71,
+      "spa": 104,
+      "spd": 71,
+      "spe": 108
+    },
+    "abilities": [
+      "猛火",
+      "铁拳"
+    ],
+    "moves": [
+      "近身战",
+      "闪焰冲锋",
+      "喷射火焰",
+      "岩崩",
+      "地震",
+      "剑舞",
+      "守住",
+      "替身",
+      "过热",
+      "击掌奇袭",
+      "暴风"
+    ],
+    "image": "images/pokemon/392.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/392.png"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "name": "帝王拿波",
+    "types": [
+      "水",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 84,
+      "atk": 86,
+      "def": 88,
+      "spa": 111,
+      "spd": 101,
+      "spe": 60
+    },
+    "abilities": [
+      "激流",
+      "不服输"
+    ],
+    "moves": [
+      "冲浪",
+      "冰冻光束",
+      "加农光炮",
+      "隐形岩",
+      "守住",
+      "替身",
+      "清除浓雾",
+      "热水"
+    ],
+    "image": "images/pokemon/395.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/395.png"
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "name": "伦琴猫",
+    "types": [
+      "电"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 120,
+      "def": 79,
+      "spa": 95,
+      "spd": 79,
+      "spe": 70
+    },
+    "abilities": [
+      "斗争心",
+      "威吓"
+    ],
+    "moves": [
+      "疯狂伏特",
+      "拍落",
+      "伏特替换",
+      "守住",
+      "替身",
+      "电磁波"
+    ],
+    "image": "images/pokemon/405.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/405.png"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "name": "罗丝雷朵",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 70,
+      "def": 65,
+      "spa": 125,
+      "spd": 105,
+      "spe": 90
+    },
+    "abilities": [
+      "自然回复",
+      "毒刺"
+    ],
+    "moves": [
+      "能量球",
+      "污泥炸弹",
+      "大地之力",
+      "催眠粉",
+      "守住",
+      "替身",
+      "生长",
+      "光合作用",
+      "撒菱",
+      "毒菱"
+    ],
+    "image": "images/pokemon/407.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/407.png"
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "name": "战槌龙",
+    "types": [
+      "岩石"
+    ],
+    "baseStats": {
+      "hp": 97,
+      "atk": 165,
+      "def": 60,
+      "spa": 65,
+      "spd": 50,
+      "spe": 58
+    },
+    "abilities": [
+      "破格",
+      "强行"
+    ],
+    "moves": [
+      "地震",
+      "火焰拳",
+      "冰冻拳",
+      "剑舞",
+      "守住",
+      "隐形岩",
+      "替身",
+      "劈瓦",
+      "岩崩"
+    ],
+    "image": "images/pokemon/409.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/409.png"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "name": "护城龙",
+    "types": [
+      "岩石",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 52,
+      "def": 168,
+      "spa": 47,
+      "spd": 138,
+      "spe": 30
+    },
+    "abilities": [
+      "结实",
+      "隔音"
+    ],
+    "moves": [
+      "隐形岩",
+      "守住",
+      "替身",
+      "剧毒",
+      "铁头",
+      "岩崩",
+      "地震",
+      "大爆炸"
+    ],
+    "image": "images/pokemon/411.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/411.png"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "name": "长耳兔",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 76,
+      "def": 84,
+      "spa": 54,
+      "spd": 96,
+      "spe": 105
+    },
+    "abilities": [
+      "迷人之躯",
+      "笨拙"
+    ],
+    "moves": [
+      "击掌奇袭",
+      "舍身冲撞",
+      "近身战",
+      "嬉闹",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳",
+      "龙之舞",
+      "守住",
+      "替身",
+      "剑舞"
+    ],
+    "image": "images/pokemon/428.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/428.png"
+      },
+      {
+        "name": "Mega长耳兔",
+        "image": "images/pokemon/428.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "name": "花岩怪",
+    "types": [
+      "幽灵",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 92,
+      "def": 108,
+      "spa": 92,
+      "spd": 108,
+      "spe": 35
+    },
+    "abilities": [
+      "压迫感",
+      "穿透"
+    ],
+    "moves": [
+      "影子球",
+      "恶之波动",
+      "鬼火",
+      "诡计",
+      "守住",
+      "同命",
+      "替身",
+      "挑衅",
+      "精神强念",
+      "突袭"
+    ],
+    "image": "images/pokemon/442.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/442.png"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "name": "烈咬陆鲨",
+    "types": [
+      "龙",
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 108,
+      "atk": 130,
+      "def": 95,
+      "spa": 80,
+      "spd": 85,
+      "spe": 102
+    },
+    "abilities": [
+      "沙隐",
+      "粗糙皮肤"
+    ],
+    "moves": [
+      "地震",
+      "逆鳞",
+      "龙爪",
+      "尖石攻击",
+      "剑舞",
+      "隐形岩",
+      "守住",
+      "替身"
+    ],
+    "image": "images/pokemon/445.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/445.png"
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "name": "路卡利欧",
+    "types": [
+      "格斗",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 70,
+      "spa": 115,
+      "spd": 70,
+      "spe": 90
+    },
+    "abilities": [
+      "不屈之心",
+      "精神力"
+    ],
+    "moves": [
+      "近身战",
+      "波导弹",
+      "加农光炮",
+      "子弹拳",
+      "冰冻拳",
+      "剑舞",
+      "守住",
+      "诡计",
+      "替身",
+      "神速",
+      "恶之波动"
+    ],
+    "image": "images/pokemon/448.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/448.png"
+      },
+      {
+        "name": "Mega路卡利欧",
+        "image": "images/pokemon/448.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "name": "河马兽",
+    "types": [
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 108,
+      "atk": 112,
+      "def": 118,
+      "spa": 68,
+      "spd": 72,
+      "spe": 47
+    },
+    "abilities": [
+      "扬沙",
+      "沙之力"
+    ],
+    "moves": [
+      "地震",
+      "岩崩",
+      "偷懒",
+      "隐形岩",
+      "守住",
+      "替身",
+      "吹飞"
+    ],
+    "image": "images/pokemon/450.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/450.png"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "name": "毒骷蛙",
+    "types": [
+      "毒",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "atk": 106,
+      "def": 65,
+      "spa": 86,
+      "spd": 65,
+      "spe": 85
+    },
+    "abilities": [
+      "危险预知",
+      "干燥皮肤"
+    ],
+    "moves": [
+      "近身战",
+      "毒击",
+      "拍落",
+      "剑舞",
+      "突袭",
+      "守住",
+      "替身",
+      "击掌奇袭",
+      "冰冻拳",
+      "地震"
+    ],
+    "image": "images/pokemon/454.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/454.png"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "name": "暴雪王",
+    "types": [
+      "草",
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 92,
+      "def": 75,
+      "spa": 92,
+      "spd": 85,
+      "spe": 60
+    },
+    "abilities": [
+      "降雪",
+      "隔音"
+    ],
+    "moves": [
+      "冰柱坠击",
+      "能量球",
+      "大地之力",
+      "暴风雪",
+      "守住",
+      "替身",
+      "剑舞",
+      "大爆炸",
+      "隐形岩",
+      "冰砾"
+    ],
+    "image": "images/pokemon/460.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/460.png"
+      },
+      {
+        "name": "Mega暴雪王",
+        "image": "images/pokemon/460.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "name": "玛狃拉",
+    "types": [
+      "恶",
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 120,
+      "def": 65,
+      "spa": 45,
+      "spd": 85,
+      "spe": 125
+    },
+    "abilities": [
+      "压迫感",
+      "顺手牵羊"
+    ],
+    "moves": [
+      "冰柱坠击",
+      "拍落",
+      "冰砾",
+      "剑舞",
+      "突袭",
+      "守住",
+      "替身",
+      "毒击",
+      "地震",
+      "冰冻拳"
+    ],
+    "image": "images/pokemon/461.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/461.png"
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "name": "超甲狂犀",
+    "types": [
+      "地面",
+      "岩石"
+    ],
+    "baseStats": {
+      "hp": 115,
+      "atk": 140,
+      "def": 130,
+      "spa": 55,
+      "spd": 55,
+      "spe": 40
+    },
+    "abilities": [
+      "避雷针",
+      "坚硬脑袋"
+    ],
+    "moves": [
+      "地震",
+      "岩崩",
+      "守住",
+      "剑舞",
+      "替身",
+      "重磅冲撞",
+      "十万马力",
+      "冰冻拳"
+    ],
+    "image": "images/pokemon/464.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/464.png"
+      }
+    ]
+  },
+  {
+    "id": 470,
+    "name": "叶伊布",
+    "types": [
+      "草"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 110,
+      "def": 130,
+      "spa": 60,
+      "spd": 65,
+      "spe": 95
+    },
+    "abilities": [
+      "叶子防守",
+      "叶绿素"
+    ],
+    "moves": [
+      "叶刃",
+      "十字剪",
+      "拍落",
+      "剑舞",
+      "光合作用",
+      "守住",
+      "替身",
+      "水流裂破",
+      "电光一闪",
+      "岩崩",
+      "大晴天"
+    ],
+    "image": "images/pokemon/470.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/470.png"
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "name": "冰伊布",
+    "types": [
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 110,
+      "spa": 130,
+      "spd": 95,
+      "spe": 65
+    },
+    "abilities": [
+      "雪隐",
+      "冰冻之躯"
+    ],
+    "moves": [
+      "冰冻光束",
+      "影子球",
+      "冰砾",
+      "守住",
+      "替身",
+      "黑雾",
+      "反射壁",
+      "光墙"
+    ],
+    "image": "images/pokemon/471.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/471.png"
+      }
+    ]
+  },
+  {
+    "id": 472,
+    "name": "天蝎王",
+    "types": [
+      "地面",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 95,
+      "def": 125,
+      "spa": 45,
+      "spd": 75,
+      "spe": 95
+    },
+    "abilities": [
+      "怪力钳",
+      "沙隐"
+    ],
+    "moves": [
+      "地震",
+      "岩崩",
+      "羽栖",
+      "剑舞",
+      "拍落",
+      "守住",
+      "替身",
+      "挑衅",
+      "燕返",
+      "十万马力"
+    ],
+    "image": "images/pokemon/472.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/472.png"
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "name": "象牙猪",
+    "types": [
+      "冰",
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 130,
+      "def": 80,
+      "spa": 70,
+      "spd": 60,
+      "spe": 80
+    },
+    "abilities": [
+      "迟钝",
+      "雪隐"
+    ],
+    "moves": [
+      "地震",
+      "冰柱坠击",
+      "冰砾",
+      "岩崩",
+      "隐形岩",
+      "守住",
+      "替身",
+      "大爆炸",
+      "十万马力",
+      "拍落"
+    ],
+    "image": "images/pokemon/473.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/473.png"
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "name": "艾路雷朵",
+    "types": [
+      "超能",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 125,
+      "def": 65,
+      "spa": 65,
+      "spd": 115,
+      "spe": 80
+    },
+    "abilities": [
+      "不屈之心",
+      "正义之心"
+    ],
+    "moves": [
+      "近身战",
+      "意念头锤",
+      "拍落",
+      "剑舞",
+      "守住",
+      "替身",
+      "冰冻拳",
+      "火焰拳",
+      "雷电拳",
+      "同命"
+    ],
+    "image": "images/pokemon/475.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/475.png"
+      },
+      {
+        "name": "Mega艾路雷朵",
+        "image": "images/pokemon/475.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 478,
+    "name": "雪妖女",
+    "types": [
+      "冰",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 80,
+      "def": 70,
+      "spa": 80,
+      "spd": 70,
+      "spe": 110
+    },
+    "abilities": [
+      "雪隐",
+      "诅咒之躯"
+    ],
+    "moves": [
+      "冰冻光束",
+      "影子球",
+      "十万伏特",
+      "同命",
+      "守住",
+      "替身",
+      "挑衅",
+      "电磁波",
+      "鬼火",
+      "戏法空间"
+    ],
+    "image": "images/pokemon/478.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/478.png"
+      },
+      {
+        "name": "Mega雪妖女",
+        "image": "images/pokemon/478.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "name": "洛托姆",
+    "types": [
+      "电",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 50,
+      "def": 77,
+      "spa": 95,
+      "spd": 77,
+      "spe": 91
+    },
+    "abilities": [
+      "飘浮"
+    ],
+    "moves": [
+      "十万伏特",
+      "影子球",
+      "恶之波动",
+      "伏特替换",
+      "鬼火",
+      "守住",
+      "替身",
+      "电磁波",
+      "挑衅",
+      "戏法空间",
+      "电网"
+    ],
+    "image": "images/pokemon/479.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/479.png"
+      },
+      {
+        "name": "加热洛托姆",
+        "image": "images/pokemon/479.png",
+        "type": "heat"
+      },
+      {
+        "name": "清洗洛托姆",
+        "image": "images/pokemon/479.png",
+        "type": "wash"
+      },
+      {
+        "name": "结冰洛托姆",
+        "image": "images/pokemon/479.png",
+        "type": "frost"
+      },
+      {
+        "name": "旋转洛托姆",
+        "image": "images/pokemon/479.png",
+        "type": "fan"
+      },
+      {
+        "name": "切割洛托姆",
+        "image": "images/pokemon/479.png",
+        "type": "mow"
+      }
+    ]
+  },
+  {
+    "id": 497,
+    "name": "君主蛇",
+    "types": [
+      "草"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 75,
+      "def": 95,
+      "spa": 75,
+      "spd": 95,
+      "spe": 113
+    },
+    "abilities": [
+      "茂盛",
+      "唱反调"
+    ],
+    "moves": [
+      "飞叶风暴",
+      "能量球",
+      "光墙",
+      "守住",
+      "替身",
+      "反射壁",
+      "剑舞"
+    ],
+    "image": "images/pokemon/497.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/497.png"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "name": "炎武王",
+    "types": [
+      "火",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 123,
+      "def": 65,
+      "spa": 100,
+      "spd": 65,
+      "spe": 65
+    },
+    "abilities": [
+      "猛火",
+      "舍身"
+    ],
+    "moves": [
+      "闪焰冲锋",
+      "近身战",
+      "地震",
+      "岩崩",
+      "鬼火",
+      "大晴天",
+      "守住",
+      "替身",
+      "火焰拳",
+      "重磅冲撞"
+    ],
+    "image": "images/pokemon/500.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/500.png"
+      },
+      {
+        "name": "Mega炎武王",
+        "image": "images/pokemon/500.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 503,
+    "name": "大剑鬼",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 100,
+      "def": 85,
+      "spa": 108,
+      "spd": 70,
+      "spe": 70
+    },
+    "abilities": [
+      "激流",
+      "硬壳盔甲"
+    ],
+    "moves": [
+      "水流裂破",
+      "冰冻光束",
+      "空气斩",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "十字剪",
+      "拍落",
+      "岩崩"
+    ],
+    "image": "images/pokemon/503.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/503.png"
+      },
+      {
+        "name": "洗翠大剑鬼",
+        "image": "images/pokemon/503.png",
+        "type": "hisui"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "name": "步哨鼠",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 85,
+      "def": 69,
+      "spa": 60,
+      "spd": 69,
+      "spe": 77
+    },
+    "abilities": [
+      "发光",
+      "锐利目光"
+    ],
+    "moves": [
+      "击掌奇袭",
+      "恶之波动",
+      "十万伏特"
+    ],
+    "image": "images/pokemon/505.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/505.png"
+      }
+    ]
+  },
+  {
+    "id": 510,
+    "name": "酷豹",
+    "types": [
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 64,
+      "atk": 88,
+      "def": 50,
+      "spa": 88,
+      "spd": 50,
+      "spe": 106
+    },
+    "abilities": [
+      "柔软",
+      "轻装"
+    ],
+    "moves": [
+      "恶之波动",
+      "影子球",
+      "嬉闹",
+      "击掌奇袭"
+    ],
+    "image": "images/pokemon/510.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/510.png"
+      }
+    ]
+  },
+  {
+    "id": 512,
+    "name": "花椰猿",
+    "types": [
+      "草"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 63,
+      "spa": 98,
+      "spd": 63,
+      "spe": 101
+    },
+    "abilities": [
+      "贪吃",
+      "茂盛"
+    ],
+    "moves": [
+      "藤鞭",
+      "岩崩",
+      "十字剪"
+    ],
+    "image": "images/pokemon/512.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/512.png"
+      }
+    ]
+  },
+  {
+    "id": 514,
+    "name": "爆香猿",
+    "types": [
+      "火"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 63,
+      "spa": 98,
+      "spd": 63,
+      "spe": 101
+    },
+    "abilities": [
+      "贪吃",
+      "猛火"
+    ],
+    "moves": [
+      "火花",
+      "岩崩",
+      "十字剪"
+    ],
+    "image": "images/pokemon/514.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/514.png"
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "name": "冷水猿",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 98,
+      "def": 63,
+      "spa": 98,
+      "spd": 63,
+      "spe": 101
+    },
+    "abilities": [
+      "贪吃",
+      "激流"
+    ],
+    "moves": [
+      "水枪",
+      "冰冻光束",
+      "十字剪"
+    ],
+    "image": "images/pokemon/516.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/516.png"
+      }
+    ]
+  },
+  {
+    "id": 530,
+    "name": "龙头地鼠",
+    "types": [
+      "地面",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 135,
+      "def": 60,
+      "spa": 50,
+      "spd": 65,
+      "spe": 88
+    },
+    "abilities": [
+      "拨沙",
+      "沙之力"
+    ],
+    "moves": [
+      "地震",
+      "铁头",
+      "岩崩",
+      "剑舞",
+      "守住",
+      "替身",
+      "拍落",
+      "隐形岩",
+      "十万马力",
+      "毒击"
+    ],
+    "image": "images/pokemon/530.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/530.png"
+      },
+      {
+        "name": "Mega龙头地鼠",
+        "image": "images/pokemon/530.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 531,
+    "name": "差不多娃娃",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 103,
+      "atk": 60,
+      "def": 86,
+      "spa": 60,
+      "spd": 86,
+      "spe": 50
+    },
+    "abilities": [
+      "治愈之心",
+      "再生力"
+    ],
+    "moves": [
+      "破坏光线",
+      "十万伏特",
+      "冰冻光束"
+    ],
+    "image": "images/pokemon/531.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/531.png"
+      },
+      {
+        "name": "Mega差不多娃娃",
+        "image": "images/pokemon/531.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "name": "修建老匠",
+    "types": [
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 105,
+      "atk": 140,
+      "def": 95,
+      "spa": 55,
+      "spd": 65,
+      "spe": 45
+    },
+    "abilities": [
+      "毅力",
+      "铁拳"
+    ],
+    "moves": [
+      "近身战",
+      "地震",
+      "岩崩",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳",
+      "拍落",
+      "子弹拳",
+      "守住",
+      "替身",
+      "健美"
+    ],
+    "image": "images/pokemon/534.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/534.png"
+      }
+    ]
+  },
+  {
+    "id": 547,
+    "name": "风妖精",
+    "types": [
+      "草",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 67,
+      "def": 85,
+      "spa": 77,
+      "spd": 75,
+      "spe": 116
+    },
+    "abilities": [
+      "恶作剧之心",
+      "穿透"
+    ],
+    "moves": [
+      "月亮之力",
+      "能量球",
+      "守住",
+      "替身",
+      "再来一次",
+      "挑衅",
+      "顺风",
+      "光墙",
+      "帮助",
+      "戏法空间"
+    ],
+    "image": "images/pokemon/547.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/547.png"
+      }
+    ]
+  },
+  {
+    "id": 553,
+    "name": "流氓鳄",
+    "types": [
+      "地面",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 117,
+      "def": 80,
+      "spa": 65,
+      "spd": 70,
+      "spe": 92
+    },
+    "abilities": [
+      "威吓",
+      "自信过度"
+    ],
+    "moves": [
+      "地震",
+      "拍落",
+      "岩崩",
+      "龙之舞",
+      "近身战",
+      "守住",
+      "替身",
+      "挑衅",
+      "欺诈"
+    ],
+    "image": "images/pokemon/553.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/553.png"
+      }
+    ]
+  },
+  {
+    "id": 563,
+    "name": "死神棺",
+    "types": [
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 50,
+      "def": 145,
+      "spa": 95,
+      "spd": 105,
+      "spe": 30
+    },
+    "abilities": [
+      "木乃伊"
+    ],
+    "moves": [
+      "灵骚",
+      "影子球",
+      "诡计",
+      "守住",
+      "替身",
+      "同命",
+      "鬼火",
+      "挑衅",
+      "毒菱",
+      "交换场地",
+      "恶之波动"
+    ],
+    "image": "images/pokemon/563.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/563.png"
+      }
+    ]
+  },
+  {
+    "id": 569,
+    "name": "灰尘山",
+    "types": [
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 95,
+      "def": 82,
+      "spa": 60,
+      "spd": 82,
+      "spe": 75
+    },
+    "abilities": [
+      "恶臭",
+      "碎裂铠甲"
+    ],
+    "moves": [
+      "污泥炸弹",
+      "地震",
+      "岩崩",
+      "剑舞"
+    ],
+    "image": "images/pokemon/569.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/569.png"
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "name": "索罗亚克",
+    "types": [
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 105,
+      "def": 60,
+      "spa": 120,
+      "spd": 60,
+      "spe": 105
+    },
+    "abilities": [
+      "幻觉"
+    ],
+    "moves": [
+      "恶之波动",
+      "喷射火焰",
+      "污泥炸弹",
+      "诡计",
+      "守住",
+      "替身",
+      "挑衅",
+      "影子球",
+      "精神强念",
+      "再来一次",
+      "突袭"
+    ],
+    "image": "images/pokemon/571.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/571.png"
+      },
+      {
+        "name": "洗翠索罗亚克",
+        "image": "images/pokemon/571.png",
+        "type": "hisui"
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "name": "人造细胞卵",
+    "types": [
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 65,
+      "def": 75,
+      "spa": 125,
+      "spd": 85,
+      "spe": 30
+    },
+    "abilities": [
+      "防尘",
+      "魔法防守"
+    ],
+    "moves": [
+      "精神强念",
+      "真气弹",
+      "魔法闪耀",
+      "自我再生",
+      "冥想",
+      "守住",
+      "替身",
+      "戏法空间",
+      "反射壁",
+      "光墙",
+      "十万伏特"
+    ],
+    "image": "images/pokemon/579.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/579.png"
+      }
+    ]
+  },
+  {
+    "id": 584,
+    "name": "双倍多多冰",
+    "types": [
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 71,
+      "atk": 95,
+      "def": 85,
+      "spa": 110,
+      "spd": 95,
+      "spe": 79
+    },
+    "abilities": [
+      "冰冻之躯",
+      "降雪"
+    ],
+    "moves": [
+      "冰冻光束",
+      "影子球",
+      "十万伏特"
+    ],
+    "image": "images/pokemon/584.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/584.png"
+      }
+    ]
+  },
+  {
+    "id": 587,
+    "name": "电飞鼠",
+    "types": [
+      "电",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 75,
+      "def": 60,
+      "spa": 75,
+      "spd": 60,
+      "spe": 103
+    },
+    "abilities": [
+      "静电",
+      "电引擎"
+    ],
+    "moves": [
+      "十万伏特",
+      "空气斩",
+      "击掌奇袭"
+    ],
+    "image": "images/pokemon/587.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/587.png"
+      }
+    ]
+  },
+  {
+    "id": 609,
+    "name": "水晶灯火灵",
+    "types": [
+      "幽灵",
+      "火"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 55,
+      "def": 90,
+      "spa": 145,
+      "spd": 90,
+      "spe": 80
+    },
+    "abilities": [
+      "引火",
+      "火焰之躯"
+    ],
+    "moves": [
+      "影子球",
+      "喷射火焰",
+      "大字爆炎",
+      "能量球",
+      "鬼火",
+      "守住",
+      "替身",
+      "冥想",
+      "挑衅",
+      "戏法空间"
+    ],
+    "image": "images/pokemon/609.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/609.png"
+      },
+      {
+        "name": "Mega水晶灯火灵",
+        "image": "images/pokemon/609.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 614,
+    "name": "冻原熊",
+    "types": [
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 130,
+      "def": 80,
+      "spa": 70,
+      "spd": 80,
+      "spe": 50
+    },
+    "abilities": [
+      "雪隐",
+      "悠游自如"
+    ],
+    "moves": [
+      "冰柱坠击",
+      "水流裂破",
+      "地震",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "冰冻拳",
+      "拍落",
+      "冰砾",
+      "十万马力"
+    ],
+    "image": "images/pokemon/614.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/614.png"
+      }
+    ]
+  },
+  {
+    "id": 618,
+    "name": "泥巴鱼",
+    "types": [
+      "地面",
+      "电"
+    ],
+    "baseStats": {
+      "hp": 109,
+      "atk": 66,
+      "def": 84,
+      "spa": 81,
+      "spd": 99,
+      "spe": 32
+    },
+    "abilities": [
+      "静电",
+      "柔软"
+    ],
+    "moves": [
+      "十万伏特",
+      "大地之力",
+      "污泥炸弹",
+      "伏特替换",
+      "守住",
+      "替身",
+      "电磁波",
+      "隐形岩",
+      "戏法空间",
+      "冲浪",
+      "热水"
+    ],
+    "image": "images/pokemon/618.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/618.png"
+      },
+      {
+        "name": "伽勒尔泥巴鱼",
+        "image": "images/pokemon/618.png",
+        "type": "galar"
+      }
+    ]
+  },
+  {
+    "id": 623,
+    "name": "泥偶巨人",
+    "types": [
+      "地面",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 89,
+      "atk": 124,
+      "def": 80,
+      "spa": 55,
+      "spd": 80,
+      "spe": 55
+    },
+    "abilities": [
+      "铁拳",
+      "笨拙"
+    ],
+    "moves": [
+      "地震",
+      "岩崩",
+      "冰冻拳",
+      "火焰拳",
+      "守住",
+      "替身",
+      "隐形岩",
+      "十万马力",
+      "拍落",
+      "重磅冲撞",
+      "大爆炸"
+    ],
+    "image": "images/pokemon/623.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/623.png"
+      },
+      {
+        "name": "Mega泥偶巨人",
+        "image": "images/pokemon/623.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 635,
+    "name": "三首恶龙",
+    "types": [
+      "恶",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 92,
+      "atk": 105,
+      "def": 90,
+      "spa": 125,
+      "spd": 90,
+      "spe": 98
+    },
+    "abilities": [
+      "飘浮"
+    ],
+    "moves": [
+      "恶之波动",
+      "龙星群",
+      "喷射火焰",
+      "真气弹",
+      "大地之力",
+      "诡计",
+      "守住",
+      "替身",
+      "挑衅",
+      "十万伏特",
+      "冲浪"
+    ],
+    "image": "images/pokemon/635.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/635.png"
+      }
+    ]
+  },
+  {
+    "id": 637,
+    "name": "火神蛾",
+    "types": [
+      "虫",
+      "火"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 60,
+      "def": 65,
+      "spa": 135,
+      "spd": 105,
+      "spe": 100
+    },
+    "abilities": [
+      "火焰之躯",
+      "虫之预感"
+    ],
+    "moves": [
+      "喷射火焰",
+      "大字爆炎",
+      "虫鸣",
+      "能量球",
+      "守住",
+      "替身",
+      "冥想",
+      "鬼火",
+      "暴风",
+      "精神强念",
+      "大晴天"
+    ],
+    "image": "images/pokemon/637.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/637.png"
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "name": "布里卡隆",
+    "types": [
+      "草",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 88,
+      "atk": 107,
+      "def": 122,
+      "spa": 74,
+      "spd": 75,
+      "spe": 64
+    },
+    "abilities": [
+      "茂盛",
+      "防弹"
+    ],
+    "moves": [
+      "强力鞭打",
+      "近身战",
+      "地震",
+      "岩崩",
+      "撒菱",
+      "守住",
+      "替身",
+      "健美",
+      "拍落",
+      "铁头",
+      "光合作用",
+      "泰山压顶"
+    ],
+    "image": "images/pokemon/652.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/652.png"
+      },
+      {
+        "name": "Mega布里卡隆",
+        "image": "images/pokemon/652.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "name": "妖火红狐",
+    "types": [
+      "火",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 69,
+      "def": 72,
+      "spa": 114,
+      "spd": 100,
+      "spe": 104
+    },
+    "abilities": [
+      "猛火",
+      "魔法师"
+    ],
+    "moves": [
+      "喷射火焰",
+      "精神强念",
+      "影子球",
+      "大字爆炎",
+      "鬼火",
+      "守住",
+      "替身",
+      "冥想",
+      "过热",
+      "戏法空间",
+      "诡计"
+    ],
+    "image": "images/pokemon/655.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/655.png"
+      },
+      {
+        "name": "Mega妖火红狐",
+        "image": "images/pokemon/655.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 658,
+    "name": "甲贺忍蛙",
+    "types": [
+      "水",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 95,
+      "def": 67,
+      "spa": 103,
+      "spd": 71,
+      "spe": 122
+    },
+    "abilities": [
+      "激流",
+      "牵绊变身"
+    ],
+    "moves": [
+      "水流裂破",
+      "恶之波动",
+      "冰冻光束",
+      "十字剪",
+      "急速折返",
+      "守住",
+      "替身",
+      "剑舞",
+      "波导弹",
+      "垃圾射击"
+    ],
+    "image": "images/pokemon/658.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/658.png"
+      },
+      {
+        "name": "Mega甲贺忍蛙",
+        "image": "images/pokemon/658.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 660,
+    "name": "掘地兔",
+    "types": [
+      "普通",
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 56,
+      "def": 77,
+      "spa": 50,
+      "spd": 77,
+      "spe": 78
+    },
+    "abilities": [
+      "捡拾",
+      "颊囊"
+    ],
+    "moves": [
+      "地震",
+      "击掌奇袭",
+      "岩崩"
+    ],
+    "image": "images/pokemon/660.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/660.png"
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "name": "烈箭鹰",
+    "types": [
+      "火",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 81,
+      "def": 71,
+      "spa": 74,
+      "spd": 69,
+      "spe": 126
+    },
+    "abilities": [
+      "火焰之躯",
+      "疾风之翼"
+    ],
+    "moves": [
+      "勇鸟猛攻",
+      "闪焰冲锋",
+      "急速折返",
+      "顺风",
+      "守住",
+      "替身",
+      "剑舞",
+      "挑衅",
+      "羽栖",
+      "过热",
+      "电光一闪"
+    ],
+    "image": "images/pokemon/663.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/663.png"
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "name": "彩粉蝶",
+    "types": [
+      "虫",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 52,
+      "def": 50,
+      "spa": 90,
+      "spd": 50,
+      "spe": 89
+    },
+    "abilities": [
+      "鳞粉",
+      "复眼"
+    ],
+    "moves": [
+      "十字剪",
+      "空气斩",
+      "精神强念"
+    ],
+    "image": "images/pokemon/666.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/666.png"
+      }
+    ]
+  },
+  {
+    "id": 671,
+    "name": "花洁夫人",
+    "types": [
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 65,
+      "def": 68,
+      "spa": 112,
+      "spd": 154,
+      "spe": 75
+    },
+    "abilities": [
+      "花幕",
+      "共生"
+    ],
+    "moves": [
+      "月亮之力",
+      "精神强念",
+      "能量球",
+      "冥想",
+      "光合作用",
+      "守住",
+      "替身",
+      "电磁波",
+      "光墙"
+    ],
+    "image": "images/pokemon/671.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/671.png"
+      },
+      {
+        "name": "永恒之花芙拉贝贝",
+        "image": "images/pokemon/671.png",
+        "type": "eternal"
+      }
+    ]
+  },
+  {
+    "id": 675,
+    "name": "流氓熊猫",
+    "types": [
+      "格斗",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 124,
+      "def": 78,
+      "spa": 69,
+      "spd": 71,
+      "spe": 58
+    },
+    "abilities": [
+      "铁拳",
+      "破格"
+    ],
+    "moves": [
+      "近身战",
+      "拍落",
+      "地震",
+      "岩崩",
+      "突袭",
+      "子弹拳",
+      "守住",
+      "替身",
+      "剑舞",
+      "火焰拳",
+      "冰冻拳",
+      "雷电拳"
+    ],
+    "image": "images/pokemon/675.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/675.png"
+      }
+    ]
+  },
+  {
+    "id": 676,
+    "name": "多丽米亚",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 80,
+      "def": 60,
+      "spa": 65,
+      "spd": 90,
+      "spe": 102
+    },
+    "abilities": [
+      "毛皮大衣"
+    ],
+    "moves": [
+      "击掌奇袭",
+      "嬉闹",
+      "恶之波动"
+    ],
+    "image": "images/pokemon/676.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/676.png"
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "name": "超能妙喵",
+    "types": [
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 74,
+      "atk": 48,
+      "def": 76,
+      "spa": 83,
+      "spd": 81,
+      "spe": 104
+    },
+    "abilities": [
+      "锐利目光",
+      "穿透"
+    ],
+    "moves": [
+      "精神强念",
+      "影子球",
+      "十万伏特"
+    ],
+    "image": "images/pokemon/678.png",
+    "forms": [
+      {
+        "name": "雄性形态",
+        "image": "images/pokemon/678.png"
+      },
+      {
+        "name": "雌性形态",
+        "image": "images/pokemon/678.png",
+        "type": "female"
+      },
+      {
+        "name": "Mega超能妙喵",
+        "image": "images/pokemon/678.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "name": "坚盾剑怪",
+    "types": [
+      "钢",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 50,
+      "def": 140,
+      "spa": 50,
+      "spd": 140,
+      "spe": 60
+    },
+    "abilities": [
+      "战斗切换"
+    ],
+    "moves": [
+      "影子球",
+      "铁头",
+      "近身战",
+      "剑舞",
+      "守住",
+      "替身",
+      "同命",
+      "剧毒"
+    ],
+    "image": "images/pokemon/681.png",
+    "forms": [
+      {
+        "name": "盾形态",
+        "image": "images/pokemon/681.png"
+      },
+      {
+        "name": "剑形态",
+        "image": "images/pokemon/681.png",
+        "type": "blade"
+      }
+    ]
+  },
+  {
+    "id": 683,
+    "name": "芳香精",
+    "types": [
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 101,
+      "atk": 72,
+      "def": 72,
+      "spa": 99,
+      "spd": 89,
+      "spe": 29
+    },
+    "abilities": [
+      "治愈之心",
+      "芳香幕"
+    ],
+    "moves": [
+      "嬉闹",
+      "精神强念",
+      "十万伏特"
+    ],
+    "image": "images/pokemon/683.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/683.png"
+      }
+    ]
+  },
+  {
+    "id": 685,
+    "name": "胖甜妮",
+    "types": [
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 82,
+      "atk": 80,
+      "def": 86,
+      "spa": 85,
+      "spd": 75,
+      "spe": 72
+    },
+    "abilities": [
+      "甜幕",
+      "轻装"
+    ],
+    "moves": [
+      "嬉闹",
+      "守住",
+      "替身",
+      "击掌奇袭",
+      "泰山压顶",
+      "大爆炸"
+    ],
+    "image": "images/pokemon/685.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/685.png"
+      }
+    ]
+  },
+  {
+    "id": 693,
+    "name": "钢炮臂虾",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 71,
+      "atk": 73,
+      "def": 88,
+      "spa": 120,
+      "spd": 89,
+      "spe": 59
+    },
+    "abilities": [
+      "超级发射器"
+    ],
+    "moves": [
+      "水炮",
+      "冰冻光束",
+      "十万伏特",
+      "恶之波动",
+      "守住",
+      "替身",
+      "求雨",
+      "波导弹",
+      "加农光炮"
+    ],
+    "image": "images/pokemon/693.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/693.png"
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "name": "光电伞蜥",
+    "types": [
+      "电",
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 62,
+      "atk": 55,
+      "def": 52,
+      "spa": 109,
+      "spd": 94,
+      "spe": 109
+    },
+    "abilities": [
+      "干燥皮肤",
+      "沙隐"
+    ],
+    "moves": [
+      "十万伏特",
+      "龙息",
+      "影子球",
+      "空气斩"
+    ],
+    "image": "images/pokemon/695.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/695.png"
+      }
+    ]
+  },
+  {
+    "id": 697,
+    "name": "怪颚龙",
+    "types": [
+      "岩石",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 82,
+      "atk": 121,
+      "def": 119,
+      "spa": 69,
+      "spd": 59,
+      "spe": 71
+    },
+    "abilities": [
+      "强壮之颚",
+      "坚硬脑袋"
+    ],
+    "moves": [
+      "地震",
+      "近身战",
+      "龙之舞",
+      "守住",
+      "替身",
+      "隐形岩",
+      "岩崩",
+      "咬碎"
+    ],
+    "image": "images/pokemon/697.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/697.png"
+      }
+    ]
+  },
+  {
+    "id": 699,
+    "name": "冰雪巨龙",
+    "types": [
+      "岩石",
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 123,
+      "atk": 77,
+      "def": 72,
+      "spa": 99,
+      "spd": 92,
+      "spe": 58
+    },
+    "abilities": [
+      "冰冻皮肤",
+      "降雪"
+    ],
+    "moves": [
+      "冰冻光束",
+      "冷冻干燥",
+      "大地之力",
+      "隐形岩",
+      "守住",
+      "替身",
+      "冰砾",
+      "暴风雪",
+      "电磁波",
+      "加农光炮"
+    ],
+    "image": "images/pokemon/699.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/699.png"
+      }
+    ]
+  },
+  {
+    "id": 700,
+    "name": "仙子伊布",
+    "types": [
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 65,
+      "def": 65,
+      "spa": 110,
+      "spd": 130,
+      "spe": 60
+    },
+    "abilities": [
+      "迷人之躯",
+      "妖精皮肤"
+    ],
+    "moves": [
+      "月亮之力",
+      "精神强念",
+      "影子球",
+      "冥想",
+      "守住",
+      "替身",
+      "电磁波",
+      "光墙",
+      "反射壁"
+    ],
+    "image": "images/pokemon/700.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/700.png"
+      }
+    ]
+  },
+  {
+    "id": 701,
+    "name": "摔角鹰人",
+    "types": [
+      "格斗",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 92,
+      "def": 75,
+      "spa": 74,
+      "spd": 63,
+      "spe": 118
+    },
+    "abilities": [
+      "柔软",
+      "轻装"
+    ],
+    "moves": [
+      "近身战",
+      "勇鸟猛攻",
+      "燕返",
+      "剑舞",
+      "羽栖",
+      "守住",
+      "替身",
+      "挑衅",
+      "拍落",
+      "冰冻拳",
+      "雷电拳"
+    ],
+    "image": "images/pokemon/701.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/701.png"
+      },
+      {
+        "name": "Mega摔角鹰人",
+        "image": "images/pokemon/701.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 702,
+    "name": "咚咚鼠",
+    "types": [
+      "电",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 67,
+      "atk": 58,
+      "def": 57,
+      "spa": 81,
+      "spd": 67,
+      "spe": 101
+    },
+    "abilities": [
+      "颊囊",
+      "捡拾"
+    ],
+    "moves": [
+      "十万伏特",
+      "嬉闹",
+      "击掌奇袭"
+    ],
+    "image": "images/pokemon/702.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/702.png"
+      }
+    ]
+  },
+  {
+    "id": 706,
+    "name": "黏美龙",
+    "types": [
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 100,
+      "def": 70,
+      "spa": 110,
+      "spd": 150,
+      "spe": 80
+    },
+    "abilities": [
+      "食草",
+      "湿润之躯"
+    ],
+    "moves": [
+      "龙星群",
+      "喷射火焰",
+      "冰冻光束",
+      "十万伏特",
+      "污泥炸弹",
+      "守住",
+      "替身",
+      "自我再生",
+      "铁头",
+      "地震",
+      "热水"
+    ],
+    "image": "images/pokemon/706.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/706.png"
+      },
+      {
+        "name": "洗翠黏美龙",
+        "image": "images/pokemon/706.png",
+        "type": "hisui"
+      }
+    ]
+  },
+  {
+    "id": 707,
+    "name": "钥圈儿",
+    "types": [
+      "钢",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 57,
+      "atk": 80,
+      "def": 91,
+      "spa": 80,
+      "spd": 87,
+      "spe": 75
+    },
+    "abilities": [
+      "恶作剧之心",
+      "魔法师"
+    ],
+    "moves": [
+      "嬉闹",
+      "铁头",
+      "守住",
+      "替身",
+      "电磁波",
+      "剧毒",
+      "光墙",
+      "反射壁",
+      "撒菱",
+      "冥想",
+      "伏特替换"
+    ],
+    "image": "images/pokemon/707.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/707.png"
+      }
+    ]
+  },
+  {
+    "id": 709,
+    "name": "朽木妖",
+    "types": [
+      "幽灵",
+      "草"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 110,
+      "def": 76,
+      "spa": 65,
+      "spd": 82,
+      "spe": 56
+    },
+    "abilities": [
+      "自然回复",
+      "察觉"
+    ],
+    "moves": [
+      "影子球",
+      "地震",
+      "剑舞",
+      "光合作用",
+      "守住",
+      "替身",
+      "鬼火",
+      "拍落",
+      "吸血",
+      "岩崩",
+      "同命"
+    ],
+    "image": "images/pokemon/709.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/709.png"
+      }
+    ]
+  },
+  {
+    "id": 711,
+    "name": "南瓜怪人",
+    "types": [
+      "幽灵",
+      "草"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 122,
+      "spa": 58,
+      "spd": 75,
+      "spe": 84
+    },
+    "abilities": [
+      "捡拾",
+      "察觉"
+    ],
+    "moves": [
+      "鬼火",
+      "剑舞",
+      "光合作用",
+      "守住",
+      "替身",
+      "拍落",
+      "大爆炸",
+      "嬉闹",
+      "同命"
+    ],
+    "image": "images/pokemon/711.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/711.png"
+      }
+    ]
+  },
+  {
+    "id": 713,
+    "name": "冰岩怪",
+    "types": [
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 117,
+      "def": 184,
+      "spa": 44,
+      "spd": 46,
+      "spe": 28
+    },
+    "abilities": [
+      "我行我素",
+      "冰冻之躯"
+    ],
+    "moves": [
+      "冰柱坠击",
+      "地震",
+      "守住",
+      "替身",
+      "自我再生",
+      "大爆炸",
+      "铁头",
+      "岩崩"
+    ],
+    "image": "images/pokemon/713.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/713.png"
+      },
+      {
+        "name": "洗翠冰岩怪",
+        "image": "images/pokemon/713.png",
+        "type": "hisui"
+      }
+    ]
+  },
+  {
+    "id": 715,
+    "name": "音波龙",
+    "types": [
+      "飞行",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 70,
+      "def": 80,
+      "spa": 97,
+      "spd": 80,
+      "spe": 123
+    },
+    "abilities": [
+      "察觉",
+      "穿透"
+    ],
+    "moves": [
+      "暴风",
+      "龙星群",
+      "喷射火焰",
+      "急速折返",
+      "羽栖",
+      "守住",
+      "替身",
+      "挑衅",
+      "顺风",
+      "清除浓雾",
+      "恶之波动"
+    ],
+    "image": "images/pokemon/715.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/715.png"
+      }
+    ]
+  },
+  {
+    "id": 724,
+    "name": "狙射树枭",
+    "types": [
+      "草",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 107,
+      "def": 75,
+      "spa": 100,
+      "spd": 100,
+      "spe": 70
+    },
+    "abilities": [
+      "茂盛",
+      "远隔"
+    ],
+    "moves": [
+      "叶刃",
+      "勇鸟猛攻",
+      "急速折返",
+      "剑舞",
+      "羽栖",
+      "守住",
+      "替身",
+      "挑衅",
+      "拍落",
+      "地震",
+      "光合作用"
+    ],
+    "image": "images/pokemon/724.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/724.png"
+      },
+      {
+        "name": "洗翠狙射树枭",
+        "image": "images/pokemon/724.png",
+        "type": "hisui"
+      }
+    ]
+  },
+  {
+    "id": 727,
+    "name": "炽焰咆哮虎",
+    "types": [
+      "火",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 115,
+      "def": 90,
+      "spa": 80,
+      "spd": 90,
+      "spe": 60
+    },
+    "abilities": [
+      "猛火",
+      "威吓"
+    ],
+    "moves": [
+      "闪焰冲锋",
+      "拍落",
+      "急速折返",
+      "击掌奇袭",
+      "近身战",
+      "地震",
+      "鬼火",
+      "守住",
+      "替身",
+      "挑衅",
+      "过热",
+      "抛下狠话"
+    ],
+    "image": "images/pokemon/727.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/727.png"
+      }
+    ]
+  },
+  {
+    "id": 730,
+    "name": "西狮海壬",
+    "types": [
+      "水",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 74,
+      "def": 74,
+      "spa": 126,
+      "spd": 116,
+      "spe": 60
+    },
+    "abilities": [
+      "激流",
+      "湿润之声"
+    ],
+    "moves": [
+      "月亮之力",
+      "水炮",
+      "冰冻光束",
+      "冥想",
+      "守住",
+      "替身",
+      "再来一次",
+      "巨声",
+      "热水",
+      "黑雾"
+    ],
+    "image": "images/pokemon/730.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/730.png"
+      }
+    ]
+  },
+  {
+    "id": 733,
+    "name": "铳嘴大鸟",
+    "types": [
+      "普通",
+      "飞行"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 120,
+      "def": 75,
+      "spa": 75,
+      "spd": 75,
+      "spe": 60
+    },
+    "abilities": [
+      "锐利目光",
+      "连续攻击"
+    ],
+    "moves": [
+      "空气斩",
+      "击掌奇袭",
+      "岩崩"
+    ],
+    "image": "images/pokemon/733.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/733.png"
+      }
+    ]
+  },
+  {
+    "id": 740,
+    "name": "好胜毛蟹",
+    "types": [
+      "格斗",
+      "冰"
+    ],
+    "baseStats": {
+      "hp": 97,
+      "atk": 132,
+      "def": 77,
+      "spa": 62,
+      "spd": 67,
+      "spe": 43
+    },
+    "abilities": [
+      "怪力钳",
+      "铁拳"
+    ],
+    "moves": [
+      "冰柱坠击",
+      "近身战",
+      "地震",
+      "冰砾",
+      "拍落",
+      "剑舞",
+      "守住",
+      "替身",
+      "健美",
+      "火焰拳",
+      "冰冻拳"
+    ],
+    "image": "images/pokemon/740.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/740.png"
+      },
+      {
+        "name": "Mega好胜毛蟹",
+        "image": "images/pokemon/740.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 745,
+    "name": "鬃岩狼人",
+    "types": [
+      "岩石"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 115,
+      "def": 65,
+      "spa": 55,
+      "spd": 65,
+      "spe": 112
+    },
+    "abilities": [
+      "锐利目光",
+      "拨沙"
+    ],
+    "moves": [
+      "岩崩",
+      "地震",
+      "近身战",
+      "剑舞",
+      "突袭",
+      "守住",
+      "替身",
+      "挑衅",
+      "拍落"
+    ],
+    "image": "images/pokemon/745.png",
+    "forms": [
+      {
+        "name": "白昼形态",
+        "image": "images/pokemon/745.png"
+      },
+      {
+        "name": "黑夜形态",
+        "image": "images/pokemon/745.png",
+        "type": "midnight"
+      },
+      {
+        "name": "黄昏形态",
+        "image": "images/pokemon/745.png",
+        "type": "dusk"
+      }
+    ]
+  },
+  {
+    "id": 748,
+    "name": "超坏星",
+    "types": [
+      "毒",
+      "水"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 63,
+      "def": 152,
+      "spa": 53,
+      "spd": 142,
+      "spe": 35
+    },
+    "abilities": [
+      "不仁不义",
+      "柔软"
+    ],
+    "moves": [
+      "污泥炸弹",
+      "热水",
+      "冰冻光束",
+      "守住",
+      "替身",
+      "毒菱",
+      "黑雾",
+      "自我再生",
+      "拍落",
+      "挑衅",
+      "剧毒",
+      "毒击"
+    ],
+    "image": "images/pokemon/748.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/748.png"
+      }
+    ]
+  },
+  {
+    "id": 750,
+    "name": "重泥挽马",
+    "types": [
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 125,
+      "def": 100,
+      "spa": 55,
+      "spd": 85,
+      "spe": 35
+    },
+    "abilities": [
+      "我行我素",
+      "持久力"
+    ],
+    "moves": [
+      "地震",
+      "重磅冲撞",
+      "岩崩",
+      "拍落",
+      "隐形岩",
+      "守住",
+      "替身",
+      "十万马力",
+      "泰山压顶",
+      "铁头"
+    ],
+    "image": "images/pokemon/750.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/750.png"
+      }
+    ]
+  },
+  {
+    "id": 752,
+    "name": "滴蛛霸",
+    "types": [
+      "水",
+      "虫"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 70,
+      "def": 92,
+      "spa": 50,
+      "spd": 132,
+      "spe": 42
+    },
+    "abilities": [
+      "水泡",
+      "储水"
+    ],
+    "moves": [
+      "水流裂破",
+      "十字剪",
+      "冰冻光束",
+      "拍落",
+      "毒击",
+      "守住",
+      "替身",
+      "剑舞",
+      "吸血"
+    ],
+    "image": "images/pokemon/752.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/752.png"
+      }
+    ]
+  },
+  {
+    "id": 758,
+    "name": "焰后蜥",
+    "types": [
+      "毒",
+      "火"
+    ],
+    "baseStats": {
+      "hp": 68,
+      "atk": 64,
+      "def": 60,
+      "spa": 111,
+      "spd": 60,
+      "spe": 117
+    },
+    "abilities": [
+      "腐蚀",
+      "迟钝"
+    ],
+    "moves": [
+      "污泥炸弹",
+      "喷射火焰",
+      "诡计",
+      "守住",
+      "替身",
+      "挑衅",
+      "再来一次",
+      "毒菱",
+      "剧毒",
+      "大字爆炎"
+    ],
+    "image": "images/pokemon/758.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/758.png"
+      }
+    ]
+  },
+  {
+    "id": 763,
+    "name": "甜冷美后",
+    "types": [
+      "草"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 120,
+      "def": 98,
+      "spa": 50,
+      "spd": 98,
+      "spe": 72
+    },
+    "abilities": [
+      "叶子防守",
+      "女王的威严"
+    ],
+    "moves": [
+      "强力鞭打",
+      "飞膝踢",
+      "嬉闹",
+      "急速折返",
+      "剑舞",
+      "拍落",
+      "守住",
+      "替身",
+      "挑衅",
+      "燕返"
+    ],
+    "image": "images/pokemon/763.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/763.png"
+      }
+    ]
+  },
+  {
+    "id": 765,
+    "name": "智挥猩",
+    "types": [
+      "普通",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 60,
+      "def": 80,
+      "spa": 90,
+      "spd": 110,
+      "spe": 60
+    },
+    "abilities": [
+      "精神力",
+      "心灵感应"
+    ],
+    "moves": [
+      "精神强念",
+      "十万伏特",
+      "影子球"
+    ],
+    "image": "images/pokemon/765.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/765.png"
+      }
+    ]
+  },
+  {
+    "id": 766,
+    "name": "投掷猴",
+    "types": [
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 120,
+      "def": 90,
+      "spa": 40,
+      "spd": 60,
+      "spe": 80
+    },
+    "abilities": [
+      "接球手",
+      "不服输"
+    ],
+    "moves": [
+      "近身战",
+      "地震",
+      "岩崩",
+      "拍落",
+      "急速折返",
+      "守住",
+      "替身",
+      "健美",
+      "舍身冲撞",
+      "火焰拳",
+      "冰冻拳"
+    ],
+    "image": "images/pokemon/766.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/766.png"
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "name": "谜拟丘",
+    "types": [
+      "幽灵",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 90,
+      "def": 80,
+      "spa": 50,
+      "spd": 105,
+      "spe": 96
+    },
+    "abilities": [
+      "画皮"
+    ],
+    "moves": [
+      "嬉闹",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "同命",
+      "拍落",
+      "意念头锤"
+    ],
+    "image": "images/pokemon/778.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/778.png"
+      }
+    ]
+  },
+  {
+    "id": 780,
+    "name": "老翁龙",
+    "types": [
+      "普通",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 78,
+      "atk": 60,
+      "def": 85,
+      "spa": 135,
+      "spd": 91,
+      "spe": 36
+    },
+    "abilities": [
+      "怒火冲天",
+      "食草"
+    ],
+    "moves": [
+      "龙星群",
+      "喷射火焰",
+      "十万伏特",
+      "影子球",
+      "冥想",
+      "守住",
+      "替身",
+      "巨声",
+      "冰冻光束",
+      "急速折返",
+      "大字爆炎"
+    ],
+    "image": "images/pokemon/780.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/780.png"
+      },
+      {
+        "name": "Mega老翁龙",
+        "image": "images/pokemon/780.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 784,
+    "name": "杖尾鳞甲龙",
+    "types": [
+      "龙",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 110,
+      "def": 125,
+      "spa": 100,
+      "spd": 105,
+      "spe": 85
+    },
+    "abilities": [
+      "防弹",
+      "隔音"
+    ],
+    "moves": [
+      "近身战",
+      "龙星群",
+      "地震",
+      "铁头",
+      "毒击",
+      "龙之舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "加农光炮",
+      "岩崩"
+    ],
+    "image": "images/pokemon/784.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/784.png"
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "name": "钢铠鸦",
+    "types": [
+      "飞行",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 98,
+      "atk": 87,
+      "def": 105,
+      "spa": 53,
+      "spd": 85,
+      "spe": 67
+    },
+    "abilities": [
+      "压迫感",
+      "紧张感"
+    ],
+    "moves": [
+      "勇鸟猛攻",
+      "铁头",
+      "急速折返",
+      "羽栖",
+      "守住",
+      "替身",
+      "挑衅",
+      "顺风",
+      "清除浓雾",
+      "健美"
+    ],
+    "image": "images/pokemon/823.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/823.png"
+      }
+    ]
+  },
+  {
+    "id": 841,
+    "name": "苹裹龙",
+    "types": [
+      "草",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 110,
+      "def": 80,
+      "spa": 95,
+      "spd": 60,
+      "spe": 70
+    },
+    "abilities": [
+      "熟成",
+      "贪吃"
+    ],
+    "moves": [
+      "强力鞭打",
+      "龙之舞",
+      "地震",
+      "燕返",
+      "守住",
+      "替身",
+      "剑舞",
+      "急速折返",
+      "光合作用",
+      "龙爪"
+    ],
+    "image": "images/pokemon/841.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/841.png"
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "name": "丰蜜龙",
+    "types": [
+      "草",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 110,
+      "atk": 85,
+      "def": 80,
+      "spa": 100,
+      "spd": 80,
+      "spe": 30
+    },
+    "abilities": [
+      "熟成",
+      "贪吃"
+    ],
+    "moves": [
+      "能量球",
+      "龙星群",
+      "大地之力",
+      "守住",
+      "替身",
+      "自我再生",
+      "铁壁",
+      "大晴天"
+    ],
+    "image": "images/pokemon/842.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/842.png"
+      }
+    ]
+  },
+  {
+    "id": 844,
+    "name": "沙螺蟒",
+    "types": [
+      "地面"
+    ],
+    "baseStats": {
+      "hp": 72,
+      "atk": 107,
+      "def": 125,
+      "spa": 65,
+      "spd": 70,
+      "spe": 71
+    },
+    "abilities": [
+      "吐沙",
+      "蜕皮"
+    ],
+    "moves": [
+      "地震",
+      "岩崩",
+      "拍落",
+      "守住",
+      "替身",
+      "隐形岩",
+      "剑舞",
+      "重磅冲撞",
+      "十万马力"
+    ],
+    "image": "images/pokemon/844.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/844.png"
+      }
+    ]
+  },
+  {
+    "id": 855,
+    "name": "怖思壶",
+    "types": [
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 65,
+      "def": 65,
+      "spa": 134,
+      "spd": 114,
+      "spe": 70
+    },
+    "abilities": [
+      "碎裂铠甲",
+      "诅咒之躯"
+    ],
+    "moves": [
+      "影子球",
+      "精神强念",
+      "恶之波动",
+      "诡计",
+      "守住",
+      "替身",
+      "同命",
+      "挑衅",
+      "戏法空间",
+      "鬼火",
+      "自我再生"
+    ],
+    "image": "images/pokemon/855.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/855.png"
+      }
+    ]
+  },
+  {
+    "id": 858,
+    "name": "布莉姆温",
+    "types": [
+      "超能",
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 57,
+      "atk": 90,
+      "def": 95,
+      "spa": 136,
+      "spd": 103,
+      "spe": 29
+    },
+    "abilities": [
+      "治愈之心",
+      "危险预知"
+    ],
+    "moves": [
+      "精神强念",
+      "魔法闪耀",
+      "恶之波动",
+      "冥想",
+      "守住",
+      "替身",
+      "戏法空间",
+      "反射壁",
+      "光墙",
+      "电磁波"
+    ],
+    "image": "images/pokemon/858.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/858.png"
+      }
+    ]
+  },
+  {
+    "id": 866,
+    "name": "踏冰人偶",
+    "types": [
+      "冰",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 85,
+      "def": 75,
+      "spa": 110,
+      "spd": 100,
+      "spe": 70
+    },
+    "abilities": [
+      "蹒跚",
+      "降雪"
+    ],
+    "moves": [
+      "冰冻光束",
+      "精神强念",
+      "十万伏特",
+      "守住",
+      "替身",
+      "诡计",
+      "戏法空间",
+      "光墙",
+      "反射壁",
+      "再来一次",
+      "黑雾"
+    ],
+    "image": "images/pokemon/866.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/866.png"
+      }
+    ]
+  },
+  {
+    "id": 867,
+    "name": "死神板",
+    "types": [
+      "地面",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 95,
+      "def": 145,
+      "spa": 50,
+      "spd": 105,
+      "spe": 30
+    },
+    "abilities": [
+      "游魂"
+    ],
+    "moves": [
+      "地震",
+      "影子球",
+      "岩崩",
+      "鬼火",
+      "隐形岩",
+      "守住",
+      "替身",
+      "拍落",
+      "同命",
+      "戏法空间",
+      "十万马力"
+    ],
+    "image": "images/pokemon/867.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/867.png"
+      }
+    ]
+  },
+  {
+    "id": 869,
+    "name": "霜奶仙",
+    "types": [
+      "妖精"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 60,
+      "def": 75,
+      "spa": 110,
+      "spd": 121,
+      "spe": 64
+    },
+    "abilities": [
+      "甜幕",
+      "芳香幕"
+    ],
+    "moves": [
+      "魔法闪耀",
+      "精神强念",
+      "自我再生",
+      "冥想",
+      "守住",
+      "替身",
+      "再来一次",
+      "电磁波",
+      "巨声"
+    ],
+    "image": "images/pokemon/869.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/869.png"
+      }
+    ]
+  },
+  {
+    "id": 877,
+    "name": "莫鲁贝可",
+    "types": [
+      "电",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 58,
+      "atk": 95,
+      "def": 58,
+      "spa": 70,
+      "spd": 58,
+      "spe": 97
+    },
+    "abilities": [
+      "饱了又饿"
+    ],
+    "moves": [
+      "十万伏特",
+      "恶之波动",
+      "击掌奇袭",
+      "守住",
+      "替身",
+      "挑衅",
+      "抛下狠话",
+      "电磁波",
+      "疯狂伏特"
+    ],
+    "image": "images/pokemon/877.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/877.png"
+      }
+    ]
+  },
+  {
+    "id": 887,
+    "name": "多龙巴鲁托",
+    "types": [
+      "龙",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 88,
+      "atk": 120,
+      "def": 75,
+      "spa": 100,
+      "spd": 75,
+      "spe": 142
+    },
+    "abilities": [
+      "恒净之躯",
+      "穿透"
+    ],
+    "moves": [
+      "影子球",
+      "十万伏特",
+      "急速折返",
+      "龙之舞",
+      "守住",
+      "替身",
+      "突袭",
+      "鬼火",
+      "大字爆炎"
+    ],
+    "image": "images/pokemon/887.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/887.png"
+      }
+    ]
+  },
+  {
+    "id": 899,
+    "name": "诡角鹿",
+    "types": [
+      "普通",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 103,
+      "atk": 105,
+      "def": 72,
+      "spa": 105,
+      "spd": 75,
+      "spe": 65
+    },
+    "abilities": [
+      "威吓",
+      "察觉"
+    ],
+    "moves": [
+      "精神冲击",
+      "破坏光线",
+      "影子球",
+      "冥想",
+      "守住",
+      "替身",
+      "挑衅",
+      "自我再生",
+      "十万伏特",
+      "反射壁",
+      "光墙"
+    ],
+    "image": "images/pokemon/899.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/899.png"
+      }
+    ]
+  },
+  {
+    "id": 900,
+    "name": "劈斧螳螂",
+    "types": [
+      "虫",
+      "岩石"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 135,
+      "def": 95,
+      "spa": 45,
+      "spd": 70,
+      "spe": 85
+    },
+    "abilities": [
+      "虫之预感",
+      "强行"
+    ],
+    "moves": [
+      "十字剪",
+      "岩崩",
+      "地震",
+      "剑舞",
+      "守住",
+      "替身",
+      "隐形岩",
+      "急速折返",
+      "燕返",
+      "拍落"
+    ],
+    "image": "images/pokemon/900.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/900.png"
+      }
+    ]
+  },
+  {
+    "id": 902,
+    "name": "幽尾玄鱼",
+    "types": [
+      "水",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 120,
+      "atk": 112,
+      "def": 65,
+      "spa": 80,
+      "spd": 75,
+      "spe": 78
+    },
+    "abilities": [
+      "悠游自如",
+      "适应力"
+    ],
+    "moves": [
+      "水流裂破",
+      "冰冻光束",
+      "龙之舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "地震"
+    ],
+    "image": "images/pokemon/902.png",
+    "forms": [
+      {
+        "name": "雄性形态",
+        "image": "images/pokemon/902.png"
+      },
+      {
+        "name": "雌性形态",
+        "image": "images/pokemon/902.png",
+        "type": "female"
+      }
+    ]
+  },
+  {
+    "id": 903,
+    "name": "大狃拉",
+    "types": [
+      "格斗",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 80,
+      "atk": 130,
+      "def": 60,
+      "spa": 40,
+      "spd": 80,
+      "spe": 120
+    },
+    "abilities": [
+      "压迫感",
+      "轻装"
+    ],
+    "moves": [
+      "近身战",
+      "毒击",
+      "地震",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "拍落",
+      "突袭",
+      "岩崩",
+      "火焰拳",
+      "冰冻拳"
+    ],
+    "image": "images/pokemon/903.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/903.png"
+      }
+    ]
+  },
+  {
+    "id": 908,
+    "name": "魔幻假面喵",
+    "types": [
+      "草",
+      "恶"
+    ],
+    "baseStats": {
+      "hp": 76,
+      "atk": 110,
+      "def": 70,
+      "spa": 81,
+      "spd": 70,
+      "spe": 123
+    },
+    "abilities": [
+      "茂盛",
+      "变换自如"
+    ],
+    "moves": [
+      "拍落",
+      "急速折返",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "嬉闹",
+      "毒菱",
+      "燕返"
+    ],
+    "image": "images/pokemon/908.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/908.png"
+      }
+    ]
+  },
+  {
+    "id": 911,
+    "name": "骨纹巨声鳄",
+    "types": [
+      "火",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 104,
+      "atk": 75,
+      "def": 100,
+      "spa": 110,
+      "spd": 75,
+      "spe": 66
+    },
+    "abilities": [
+      "猛火",
+      "纯朴"
+    ],
+    "moves": [
+      "影子球",
+      "大地之力",
+      "守住",
+      "替身",
+      "冥想",
+      "鬼火",
+      "大晴天",
+      "巨声",
+      "过热",
+      "喷射火焰"
+    ],
+    "image": "images/pokemon/911.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/911.png"
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "name": "狂欢浪舞鸭",
+    "types": [
+      "水",
+      "格斗"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 120,
+      "def": 80,
+      "spa": 85,
+      "spd": 75,
+      "spe": 85
+    },
+    "abilities": [
+      "激流",
+      "自信过度"
+    ],
+    "moves": [
+      "水流裂破",
+      "近身战",
+      "冰冻光束",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "空气斩",
+      "拍落",
+      "击掌奇袭"
+    ],
+    "image": "images/pokemon/914.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/914.png"
+      }
+    ]
+  },
+  {
+    "id": 925,
+    "name": "一家鼠",
+    "types": [
+      "普通"
+    ],
+    "baseStats": {
+      "hp": 74,
+      "atk": 75,
+      "def": 70,
+      "spa": 65,
+      "spd": 75,
+      "spe": 111
+    },
+    "abilities": [
+      "友情防守",
+      "颊囊"
+    ],
+    "moves": [
+      "击掌奇袭",
+      "嬉闹",
+      "泰山压顶",
+      "拍落",
+      "守住",
+      "替身",
+      "挑衅",
+      "再来一次",
+      "伏特替换"
+    ],
+    "image": "images/pokemon/925.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/925.png"
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "name": "盐石巨灵",
+    "types": [
+      "岩石"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 100,
+      "def": 130,
+      "spa": 45,
+      "spd": 90,
+      "spe": 35
+    },
+    "abilities": [
+      "洁净之盐",
+      "结实"
+    ],
+    "moves": [
+      "岩崩",
+      "地震",
+      "铁头",
+      "自我再生",
+      "守住",
+      "替身",
+      "隐形岩",
+      "重磅冲撞",
+      "泰山压顶"
+    ],
+    "image": "images/pokemon/934.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/934.png"
+      }
+    ]
+  },
+  {
+    "id": 936,
+    "name": "红莲铠骑",
+    "types": [
+      "火",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 60,
+      "def": 100,
+      "spa": 125,
+      "spd": 80,
+      "spe": 75
+    },
+    "abilities": [
+      "引火",
+      "碎裂铠甲"
+    ],
+    "moves": [
+      "喷射火焰",
+      "精神强念",
+      "能量球",
+      "冥想",
+      "守住",
+      "替身",
+      "鬼火",
+      "戏法空间",
+      "加农光炮",
+      "广域防守",
+      "波导弹"
+    ],
+    "image": "images/pokemon/936.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/936.png"
+      }
+    ]
+  },
+  {
+    "id": 937,
+    "name": "苍炎刃鬼",
+    "types": [
+      "火",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 125,
+      "def": 80,
+      "spa": 60,
+      "spd": 100,
+      "spe": 85
+    },
+    "abilities": [
+      "引火",
+      "碎裂铠甲"
+    ],
+    "moves": [
+      "闪焰冲锋",
+      "影子球",
+      "近身战",
+      "剑舞",
+      "守住",
+      "替身",
+      "挑衅",
+      "拍落",
+      "突袭",
+      "鬼火",
+      "意念头锤"
+    ],
+    "image": "images/pokemon/937.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/937.png"
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "name": "电肚蛙",
+    "types": [
+      "电"
+    ],
+    "baseStats": {
+      "hp": 109,
+      "atk": 64,
+      "def": 91,
+      "spa": 103,
+      "spd": 83,
+      "spe": 45
+    },
+    "abilities": [
+      "电气制造者",
+      "静电"
+    ],
+    "moves": [
+      "十万伏特",
+      "水炮",
+      "冰冻光束",
+      "守住",
+      "替身",
+      "冥想",
+      "电磁波",
+      "伏特替换",
+      "反射壁",
+      "光墙"
+    ],
+    "image": "images/pokemon/939.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/939.png"
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "name": "狠辣椒",
+    "types": [
+      "草",
+      "火"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 108,
+      "def": 65,
+      "spa": 108,
+      "spd": 65,
+      "spe": 75
+    },
+    "abilities": [
+      "叶绿素",
+      "不眠"
+    ],
+    "moves": [
+      "喷射火焰",
+      "能量球",
+      "鬼火",
+      "守住",
+      "替身",
+      "生长",
+      "大晴天",
+      "光合作用",
+      "大地之力",
+      "过热"
+    ],
+    "image": "images/pokemon/952.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/952.png"
+      },
+      {
+        "name": "Mega狠辣椒",
+        "image": "images/pokemon/952.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "name": "超能艳鸵",
+    "types": [
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 95,
+      "atk": 60,
+      "def": 60,
+      "spa": 101,
+      "spd": 60,
+      "spe": 105
+    },
+    "abilities": [
+      "加速",
+      "察觉"
+    ],
+    "moves": [
+      "精神强念",
+      "魔法闪耀",
+      "影子球",
+      "冥想",
+      "守住",
+      "替身",
+      "再来一次",
+      "急速折返",
+      "反射壁",
+      "光墙"
+    ],
+    "image": "images/pokemon/956.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/956.png"
+      }
+    ]
+  },
+  {
+    "id": 959,
+    "name": "巨锻匠",
+    "types": [
+      "妖精",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 85,
+      "atk": 75,
+      "def": 77,
+      "spa": 70,
+      "spd": 105,
+      "spe": 94
+    },
+    "abilities": [
+      "破格",
+      "我行我素"
+    ],
+    "moves": [
+      "嬉闹",
+      "铁头",
+      "地震",
+      "剑舞",
+      "守住",
+      "替身",
+      "隐形岩",
+      "拍落",
+      "岩崩",
+      "意念头锤",
+      "击掌奇袭"
+    ],
+    "image": "images/pokemon/959.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/959.png"
+      }
+    ]
+  },
+  {
+    "id": 964,
+    "name": "海豚侠",
+    "types": [
+      "水"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 160,
+      "def": 97,
+      "spa": 106,
+      "spd": 87,
+      "spe": 100
+    },
+    "abilities": [
+      "全能变身"
+    ],
+    "moves": [
+      "水流裂破",
+      "近身战",
+      "冰冻拳",
+      "守住",
+      "替身",
+      "健美",
+      "拍落",
+      "地震",
+      "嬉闹"
+    ],
+    "image": "images/pokemon/964.png",
+    "forms": [
+      {
+        "name": "平凡形态",
+        "image": "images/pokemon/964.png"
+      },
+      {
+        "name": "全能形态",
+        "image": "images/pokemon/964.png",
+        "type": "hero"
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "name": "拖拖蚓",
+    "types": [
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 70,
+      "atk": 85,
+      "def": 145,
+      "spa": 60,
+      "spd": 55,
+      "spe": 65
+    },
+    "abilities": [
+      "食土",
+      "沙隐"
+    ],
+    "moves": [
+      "铁头",
+      "地震",
+      "岩崩",
+      "守住",
+      "替身",
+      "隐形岩",
+      "大爆炸",
+      "拍落"
+    ],
+    "image": "images/pokemon/968.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/968.png"
+      }
+    ]
+  },
+  {
+    "id": 970,
+    "name": "晶光花",
+    "types": [
+      "岩石",
+      "毒"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "atk": 55,
+      "def": 90,
+      "spa": 130,
+      "spd": 81,
+      "spe": 86
+    },
+    "abilities": [
+      "毒满地",
+      "腐蚀"
+    ],
+    "moves": [
+      "力量宝石",
+      "污泥炸弹",
+      "大地之力",
+      "守住",
+      "替身",
+      "鬼火",
+      "隐形岩",
+      "毒菱",
+      "大爆炸",
+      "自我再生",
+      "十万伏特"
+    ],
+    "image": "images/pokemon/970.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/970.png"
+      },
+      {
+        "name": "Mega晶光花",
+        "image": "images/pokemon/970.png",
+        "type": "mega"
+      }
+    ]
+  },
+  {
+    "id": 981,
+    "name": "奇麒麟",
+    "types": [
+      "普通",
+      "超能"
+    ],
+    "baseStats": {
+      "hp": 120,
+      "atk": 90,
+      "def": 70,
+      "spa": 110,
+      "spd": 70,
+      "spe": 60
+    },
+    "abilities": [
+      "反刍",
+      "尾甲"
+    ],
+    "moves": [
+      "精神强念",
+      "破坏光线",
+      "十万伏特",
+      "诡计",
+      "守住",
+      "替身",
+      "电磁波",
+      "戏法空间",
+      "反射壁",
+      "光墙",
+      "影子球"
+    ],
+    "image": "images/pokemon/981.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/981.png"
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "name": "仆刀将军",
+    "types": [
+      "恶",
+      "钢"
+    ],
+    "baseStats": {
+      "hp": 100,
+      "atk": 135,
+      "def": 120,
+      "spa": 60,
+      "spd": 85,
+      "spe": 50
+    },
+    "abilities": [
+      "不服输",
+      "大将"
+    ],
+    "moves": [
+      "拍落",
+      "铁头",
+      "地震",
+      "剑舞",
+      "突袭",
+      "守住",
+      "替身",
+      "挑衅",
+      "意念头锤",
+      "燕返",
+      "毒击"
+    ],
+    "image": "images/pokemon/983.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/983.png"
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "来悲粗茶",
+    "types": [
+      "草",
+      "幽灵"
+    ],
+    "baseStats": {
+      "hp": 71,
+      "atk": 60,
+      "def": 106,
+      "spa": 121,
+      "spd": 80,
+      "spe": 70
+    },
+    "abilities": [
+      "款待",
+      "耐热"
+    ],
+    "moves": [
+      "影子球",
+      "能量球",
+      "污泥炸弹",
+      "诡计",
+      "守住",
+      "替身",
+      "鬼火",
+      "自我再生",
+      "精神强念",
+      "同命"
+    ],
+    "image": "images/pokemon/1013.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/1013.png"
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "铝钢桥龙",
+    "types": [
+      "钢",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 90,
+      "atk": 105,
+      "def": 130,
+      "spa": 125,
+      "spd": 65,
+      "spe": 85
+    },
+    "abilities": [
+      "持久力",
+      "结实"
+    ],
+    "moves": [
+      "龙星群",
+      "加农光炮",
+      "十万伏特",
+      "隐形岩",
+      "守住",
+      "替身",
+      "地震",
+      "铁壁",
+      "羽栖"
+    ],
+    "image": "images/pokemon/1018.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/1018.png"
+      }
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "蜜集大蛇",
+    "types": [
+      "草",
+      "龙"
+    ],
+    "baseStats": {
+      "hp": 106,
+      "atk": 80,
+      "def": 110,
+      "spa": 120,
+      "spd": 80,
+      "spe": 44
+    },
+    "abilities": [
+      "再生力",
+      "贪吃"
+    ],
+    "moves": [
+      "龙星群",
+      "能量球",
+      "喷射火焰",
+      "守住",
+      "替身",
+      "诡计",
+      "自我再生",
+      "大地之力",
+      "污泥炸弹"
+    ],
+    "image": "images/pokemon/1019.png",
+    "forms": [
+      {
+        "name": "标准形态",
+        "image": "images/pokemon/1019.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1479 @@
+[
+  {
+    "id": 1,
+    "name": "藤鞭",
+    "type": "草",
+    "category": "物攻",
+    "power": 45,
+    "accuracy": 100,
+    "pp": 25,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "火花",
+    "type": "火",
+    "category": "特攻",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "flags": []
+  },
+  {
+    "id": 3,
+    "name": "水枪",
+    "type": "水",
+    "category": "特攻",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "flags": []
+  },
+  {
+    "id": 4,
+    "name": "十万伏特",
+    "type": "电",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 5,
+    "name": "影子球",
+    "type": "幽灵",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "bulletproof"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "生长",
+    "type": "草",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 7,
+    "name": "龙息",
+    "type": "龙",
+    "category": "特攻",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 8,
+    "name": "地震",
+    "type": "地面",
+    "category": "物攻",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 9,
+    "name": "冰冻光束",
+    "type": "冰",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 10,
+    "name": "近身战",
+    "type": "格斗",
+    "category": "物攻",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "污泥炸弹",
+    "type": "毒",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "bulletproof"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "空气斩",
+    "type": "飞行",
+    "category": "特攻",
+    "power": 75,
+    "accuracy": 95,
+    "pp": 15,
+    "flags": [
+      "cutting"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "精神强念",
+    "type": "超能",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 14,
+    "name": "十字剪",
+    "type": "虫",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "cutting"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "岩崩",
+    "type": "岩石",
+    "category": "物攻",
+    "power": 75,
+    "accuracy": 90,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 16,
+    "name": "恶之波动",
+    "type": "恶",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "pulse"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "铁头",
+    "type": "钢",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "嬉闹",
+    "type": "妖精",
+    "category": "物攻",
+    "power": 90,
+    "accuracy": 90,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "破坏光线",
+    "type": "普通",
+    "category": "特攻",
+    "power": 150,
+    "accuracy": 90,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 20,
+    "name": "击掌奇袭",
+    "type": "普通",
+    "category": "物攻",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "剑舞",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 22,
+    "name": "泰山压顶",
+    "type": "普通",
+    "category": "物攻",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "报恩",
+    "type": "普通",
+    "category": "物攻",
+    "power": 102,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "舍身冲撞",
+    "type": "普通",
+    "category": "物攻",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "电光一闪",
+    "type": "普通",
+    "category": "物攻",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "神速",
+    "type": "普通",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "巨声",
+    "type": "普通",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "sound"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "三角攻击",
+    "type": "普通",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 29,
+    "name": "大爆炸",
+    "type": "普通",
+    "category": "物攻",
+    "power": 250,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 30,
+    "name": "守住",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 8,
+    "flags": []
+  },
+  {
+    "id": 31,
+    "name": "替身",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 32,
+    "name": "挑衅",
+    "type": "恶",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 33,
+    "name": "再来一次",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 34,
+    "name": "喷射火焰",
+    "type": "火",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 35,
+    "name": "大字爆炎",
+    "type": "火",
+    "category": "特攻",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 36,
+    "name": "过热",
+    "type": "火",
+    "category": "特攻",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 37,
+    "name": "火焰拳",
+    "type": "火",
+    "category": "物攻",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "punching"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "闪焰冲锋",
+    "type": "火",
+    "category": "物攻",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "鬼火",
+    "type": "火",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 85,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 40,
+    "name": "大晴天",
+    "type": "火",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 41,
+    "name": "冲浪",
+    "type": "水",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 42,
+    "name": "水炮",
+    "type": "水",
+    "category": "特攻",
+    "power": 110,
+    "accuracy": 80,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 43,
+    "name": "热水",
+    "type": "水",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 44,
+    "name": "水流裂破",
+    "type": "水",
+    "category": "物攻",
+    "power": 85,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "水流连打",
+    "type": "水",
+    "category": "物攻",
+    "power": 25,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "求雨",
+    "type": "水",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 47,
+    "name": "能量球",
+    "type": "草",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "bulletproof"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "飞叶风暴",
+    "type": "草",
+    "category": "特攻",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 49,
+    "name": "叶刃",
+    "type": "草",
+    "category": "物攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "cutting"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "强力鞭打",
+    "type": "草",
+    "category": "物攻",
+    "power": 120,
+    "accuracy": 85,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "蘑菇孢子",
+    "type": "草",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "powder"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "催眠粉",
+    "type": "草",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 75,
+    "pp": 15,
+    "flags": [
+      "powder"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "光合作用",
+    "type": "草",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 54,
+    "name": "打雷",
+    "type": "电",
+    "category": "特攻",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 55,
+    "name": "伏特替换",
+    "type": "电",
+    "category": "特攻",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 56,
+    "name": "雷电拳",
+    "type": "电",
+    "category": "物攻",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "punching"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "疯狂伏特",
+    "type": "电",
+    "category": "物攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "电磁波",
+    "type": "电",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 59,
+    "name": "暴风雪",
+    "type": "冰",
+    "category": "特攻",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 60,
+    "name": "冷冻干燥",
+    "type": "冰",
+    "category": "特攻",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 61,
+    "name": "冰柱坠击",
+    "type": "冰",
+    "category": "物攻",
+    "power": 85,
+    "accuracy": 90,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 62,
+    "name": "冰砾",
+    "type": "冰",
+    "category": "物攻",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "冰冻拳",
+    "type": "冰",
+    "category": "物攻",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "punching"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "吸取拳",
+    "type": "格斗",
+    "category": "物攻",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact",
+      "punching"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "飞膝踢",
+    "type": "格斗",
+    "category": "物攻",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "劈瓦",
+    "type": "格斗",
+    "category": "物攻",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "音速拳",
+    "type": "格斗",
+    "category": "物攻",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "flags": [
+      "contact",
+      "punching"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "波导弹",
+    "type": "格斗",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "bulletproof",
+      "pulse"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "真气弹",
+    "type": "格斗",
+    "category": "特攻",
+    "power": 120,
+    "accuracy": 70,
+    "pp": 5,
+    "flags": [
+      "bulletproof"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "健美",
+    "type": "格斗",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 71,
+    "name": "毒液冲击",
+    "type": "毒",
+    "category": "特攻",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 72,
+    "name": "毒击",
+    "type": "毒",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "垃圾射击",
+    "type": "毒",
+    "category": "物攻",
+    "power": 120,
+    "accuracy": 80,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 74,
+    "name": "剧毒",
+    "type": "毒",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 75,
+    "name": "毒菱",
+    "type": "毒",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 76,
+    "name": "大地之力",
+    "type": "地面",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 77,
+    "name": "十万马力",
+    "type": "地面",
+    "category": "物攻",
+    "power": 95,
+    "accuracy": 95,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "跺脚",
+    "type": "地面",
+    "category": "物攻",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "撒菱",
+    "type": "地面",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 80,
+    "name": "隐形岩",
+    "type": "岩石",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 81,
+    "name": "暴风",
+    "type": "飞行",
+    "category": "特攻",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 82,
+    "name": "勇鸟猛攻",
+    "type": "飞行",
+    "category": "物攻",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "燕返",
+    "type": "飞行",
+    "category": "物攻",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "羽栖",
+    "type": "飞行",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 85,
+    "name": "顺风",
+    "type": "飞行",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 86,
+    "name": "清除浓雾",
+    "type": "飞行",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 87,
+    "name": "精神冲击",
+    "type": "超能",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 88,
+    "name": "意念头锤",
+    "type": "超能",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 90,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "冥想",
+    "type": "超能",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 90,
+    "name": "戏法空间",
+    "type": "超能",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 91,
+    "name": "光墙",
+    "type": "超能",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 92,
+    "name": "反射壁",
+    "type": "超能",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 93,
+    "name": "虫鸣",
+    "type": "虫",
+    "category": "特攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "sound"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "急速折返",
+    "type": "虫",
+    "category": "物攻",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "吸血",
+    "type": "虫",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "黏黏网",
+    "type": "虫",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 97,
+    "name": "力量宝石",
+    "type": "岩石",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 98,
+    "name": "尖石攻击",
+    "type": "岩石",
+    "category": "物攻",
+    "power": 100,
+    "accuracy": 80,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 99,
+    "name": "岩石封",
+    "type": "岩石",
+    "category": "物攻",
+    "power": 60,
+    "accuracy": 95,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 100,
+    "name": "流星光束",
+    "type": "岩石",
+    "category": "特攻",
+    "power": 120,
+    "accuracy": 90,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 101,
+    "name": "暗影爪",
+    "type": "幽灵",
+    "category": "物攻",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "cutting"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "灵骚",
+    "type": "幽灵",
+    "category": "物攻",
+    "power": 110,
+    "accuracy": 90,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 103,
+    "name": "祸不单行",
+    "type": "幽灵",
+    "category": "特攻",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 104,
+    "name": "同命",
+    "type": "幽灵",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 105,
+    "name": "龙星群",
+    "type": "龙",
+    "category": "特攻",
+    "power": 130,
+    "accuracy": 90,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 106,
+    "name": "龙爪",
+    "type": "龙",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "cutting"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "逆鳞",
+    "type": "龙",
+    "category": "物攻",
+    "power": 120,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "龙之舞",
+    "type": "龙",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 109,
+    "name": "拍落",
+    "type": "恶",
+    "category": "物攻",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "欺诈",
+    "type": "恶",
+    "category": "物攻",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "突袭",
+    "type": "恶",
+    "category": "物攻",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "咬碎",
+    "type": "恶",
+    "category": "物攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": [
+      "contact",
+      "biting"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "抛下狠话",
+    "type": "恶",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "sound"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "诡计",
+    "type": "恶",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 115,
+    "name": "加农光炮",
+    "type": "钢",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 116,
+    "name": "重磅冲撞",
+    "type": "钢",
+    "category": "物攻",
+    "power": 1,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "子弹拳",
+    "type": "钢",
+    "category": "物攻",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "flags": [
+      "contact",
+      "punching"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "铁壁",
+    "type": "钢",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 119,
+    "name": "月亮之力",
+    "type": "妖精",
+    "category": "特攻",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 120,
+    "name": "魔法闪耀",
+    "type": "妖精",
+    "category": "特攻",
+    "power": 80,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 121,
+    "name": "灵魂冲击",
+    "type": "妖精",
+    "category": "物攻",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": [
+      "contact"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "快速防守",
+    "type": "格斗",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 123,
+    "name": "广域防守",
+    "type": "岩石",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  },
+  {
+    "id": 124,
+    "name": "交换场地",
+    "type": "超能",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 125,
+    "name": "帮助",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 126,
+    "name": "嚎叫",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": [
+      "sound"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "吹飞",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 128,
+    "name": "黑雾",
+    "type": "冰",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "flags": []
+  },
+  {
+    "id": 129,
+    "name": "自我再生",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 130,
+    "name": "生蛋",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 131,
+    "name": "偷懒",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 5,
+    "flags": []
+  },
+  {
+    "id": 132,
+    "name": "愤怒门牙",
+    "type": "普通",
+    "category": "物攻",
+    "power": 1,
+    "accuracy": 90,
+    "pp": 10,
+    "flags": [
+      "contact",
+      "biting"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "浸水",
+    "type": "水",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 20,
+    "flags": []
+  },
+  {
+    "id": 134,
+    "name": "电网",
+    "type": "电",
+    "category": "特攻",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "flags": []
+  },
+  {
+    "id": 135,
+    "name": "定身法",
+    "type": "普通",
+    "category": "变化",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "flags": []
+  }
+]
